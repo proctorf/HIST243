@@ -41,7 +41,7 @@ Papers must be double spaced, employ Times New Roman 12 point font, have 1 inch 
 
 The syllabus has been divided into Three Units (Sex, Conquest, and Colonialism; Sexuality and State Building; and, Revolutionary Sexualities?) and you are required to write one paper on two of those three Units.  (First and Second Year Students must to write on Unit One so I have something for midterm grades).
 
-Paper Due dates:
+Project Due dates:
 Unit One – Tuesday, October 6th
 Unit Two – Tuesday, October 27th
 Unit Three – Tuesday, December 15th
@@ -107,7 +107,7 @@ The following required books are available in the bookstore:
 Students are expected to attend class, to have completed the reading, and to be prepared to discuss the major arguments and implications of the work.  Please bring copies of the assigned readings to class.  The instructor reserves the right to give pop quizzes in these discussion sections should they not meet my satisfaction.
 
 
-Grading –
+Grading <br>
 | Assignments | Weight |
 |---------------------|------------------------------|
 | Final Project |		30% total (See assignment for breakdown)|
