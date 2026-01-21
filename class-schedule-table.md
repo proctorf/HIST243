@@ -5,35 +5,35 @@
 
 | Date | Notes |
 |------|-------|
-| Tuesday, January 21 | <br><br><br><br><br><br> |
-| Thursday, January 23 | <br><br><br><br><br><br> |
-| Tuesday, January 28 | <br><br><br><br><br><br> |
-| Thursday, January 30 | <br><br><br><br><br><br> |
-| Tuesday, February 4 | <br><br><br><br><br><br> |
-| Thursday, February 6 | <br><br><br><br><br><br> |
-| Tuesday, February 11 | <br><br><br><br><br><br> |
-| Thursday, February 13 | <br><br><br><br><br><br> |
-| Tuesday, February 18 | <br><br><br><br><br><br> |
-| Thursday, February 20 | <br><br><br><br><br><br> |
-| Tuesday, February 25 | <br><br><br><br><br><br> |
-| Thursday, February 27 | <br><br><br><br><br><br> |
-| Tuesday, March 3 | <br><br><br><br><br><br> |
-| Thursday, March 5 | <br><br><br><br><br><br> |
-| Tuesday, March 10 | <br><br><br><br><br><br> |
-| Thursday, March 12 | <br><br><br><br><br><br> |
-| Tuesday, March 17 | <br><br><br><br><br><br> |
-| Thursday, March 19 | <br><br><br><br><br><br> |
-| Tuesday, March 24 | <br><br><br><br><br><br> |
-| Thursday, March 26 | <br><br><br><br><br><br> |
-| Tuesday, March 31 | <br><br><br><br><br><br> |
-| Thursday, April 2 | <br><br><br><br><br><br> |
-| Tuesday, April 7 | <br><br><br><br><br><br> |
-| Thursday, April 9 | <br><br><br><br><br><br> |
-| Tuesday, April 14 | <br><br><br><br><br><br> |
-| Thursday, April 16 | <br><br><br><br><br><br> |
-| Tuesday, April 21 | <br><br><br><br><br><br> |
-| Thursday, April 23 | <br><br><br><br><br><br> |
-| Tuesday, April 28 | <br><br><br><br><br><br> |
+| Tuesday, January 20 | Introductiosn |
+| Thursday, January 22 | Theory |
+| Tuesday, January 27 | 1.1 Berdache |
+| Thursday, January 29 | 1.2 Colonial Native Sexualities |
+| Tuesday, February 3 | 1.3 Women and "Crime" |
+| Thursday, February 5 | 1.4 Women's Sexual Desire / Queer Women (one or two days?) |
+| Tuesday, February 10 | 1.5 Colonial Male Homosexuality |
+| Thursday, February 12 | 1.6 Catalina de Eurauso |
+| Tuesday, February 17 | In Class Workday |
+| Thursday, February 19 | 2.1 Engendering Citizens  (Caufield and Earle) |
+| Tuesday, February 24 | 2.2 Sexulaity and State Building (French and Berco)|
+| Thursday, February 26 | 2.3 Sex and Crime - Piccato and Ruggiero|
+| Tuesday, March 3 | 2.4 Sexuality and "Modern" Science (Bronfan, perhaps Caufield on Mangue, and we need a second piece. Was Green, could be Salessi) |
+| Thursday, March 5 | 2.5 Sex and Popular Culture (Ben, Green, Archetti) |
+| Tuesday, March 10 | 2.6 Senhora |
+| Thursday, March 12 | In Class Work Day|
+| Tuesday, March 17 | 3.1 Mexican Rev|
+| Thursday, March 19 | 3.2 Cuban Rev |
+| Tuesday, March 24 | 3.3.Sex and the Cold Ward (Manzano and Cowan) |
+| Thursday, March 26 | 3.4 20th Century Queer Identies (Green) |
+| Tuesday, March 31 | 3.5 Women, Sex, and Authoritarianism |
+| Thursday, April 2 | 3.6  Reproductive Rights (bill and sterilization) Wessel too|
+| Tuesday, April 7 | 3.7 Modern Mexican Sexualities|
+| Thursday, April 9 | 3.8 Pornography and Democracy |
+| Tuesday, April 14 | In Class Workday |
+| Thursday, April 16 |  |
+| Tuesday, April 21 | Where are we now? presentations|
+| Thursday, April 23 | CEP |
+| Tuesday, April 28 | CEP / Course Evals |
 
 ---
 *Print this page for a handy class schedule with space for notes*
