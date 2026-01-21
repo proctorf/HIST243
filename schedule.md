@@ -73,63 +73,71 @@ layout: default
 
 **Readings:**
 - Catalina de Erauso, *Lieutenant Nun: Memoir of a Basque Transvestite in the New World*, trans by Michele Septo and Gabriel Septo, (Boston: Beacon Press, 1996).  Entire
+- Chad T. Black, <a href="https://www.jstor.org/stable/10.1525/j.ctt19b9jgt.11" target="_blank">"Prosecuting Female-Female Sex in Bourbon Quito,"</a> in *Sexuality and the Unnatural in Colonial Latin America*, Zeb Tortorici, ed., (Univ of California Press, 2016), 120-140. 
 
 
 ### Tues, Feb 17 - 
 
-**Assignments:**
-- Paper #1 Due
+In-Class Workday on Project 1
 
 ## Week 5 - Unit Two: Sexuality and State Building
 
-### Thurs, Feb 19 - Sexuality and the State (RXN)
+### Thurs, Feb 19 - 
+**Assignments:**
+- Project #1 Due
+
+## Week 6
+
+### Tues, Feb 24 - Sexuality and the State (RXN)
 
 **Readings:**
 - William French, <a href="" target="_blank" rel="noopener noreferrer">"Prostitutes and Guardian Angels: Women, Work, and the Family in Porfirian Mexico,"</a> *Hispanic American Historical Review*, 72:4 (1992); 529-553.
 - Christian Berco, <a href="" target="_blank" rel="noopener noreferrer">"Silencing the Unmentionable: Non-reproductive Sex and the Creation of a Civilized Argentina, 1860-1900,"</a> *The Americas* 58:3 (2002): 419-44.
 
-## Week 6
-
-
-### Tues, Feb 24 - Sex, Crime, and the State (RXN)
+### Thurs, Feb 26 - Sex, Crime, and the State (RXN)
 
 **Readings:**
 - Pablo Piccato, <a href="" target="_blank" rel="noopener noreferrer">"'El Chalequero' or the Mexican Jack the Ripper: The Meanings of Sexual Violence in Turn-of-the-Century Mexico City,"</a> *Hispanic American Historical Review* 81:3-4 (2001): 623-51.
 - Kristin Ruggiero, <a href="" target="_blank" rel="noopener noreferrer">"Honor, Maternity, and the Disciplining of Women: Infanticide in Late Nineteenth-Century Buenos Aires,"</a> *The Hispanic American Historical Review*, 72:3 (1992); 353-73.
 
-
-### Thurs, Feb 26 - Sexuality and "Modern" Science (RXN)
-
-**Readings:**
-- Green, *Beyond Carnival*, 107-46.
-- Alejandra Bronfman, <a href="" target="_blank" rel="noopener noreferrer">"Mismeasured Women: Gender and Social Science on the Eve of Female Suffrage in Cuba,"</a> in *Gender, Sexuality, and Power*, 71-86.
-- Pablo Ben, <a href="" target="_blank" rel="noopener noreferrer">"Plebian Masculinity and Sexual Comedy in Buenos Aires, 1880-1930"</a> *Journal of the History of Sexuality* 16:3 (2007): 436-458.
-
-
 ## Week 7
 
-### Tues, Mar 3 - Senhora
+### Tues, Mar 3 - Sexuality and "Modern" Science (RXN)
 
 **Readings:**
-- José de Alencar, *Senhora: Profile of a Woman*, trans. by Catarina Feldman Edinger, (Austin: U of Texas Press, 1994).  Entire (Focus on pgs 3-98).
+- Alejandra Bronfman, <a href="" target="_blank" rel="noopener noreferrer">"Mismeasured Women: Gender and Social Science on the Eve of Female Suffrage in Cuba,"</a> in *Gender, Sexuality, and Power*, 71-86.
+
+Additional Reading TBD
+
+### Thurs, Mar 5 - Sex and Popular Culture
+
+- Pablo Ben, <a href="" target="_blank" rel="noopener noreferrer">"Plebian Masculinity and Sexual Comedy in Buenos Aires, 1880-1930"</a> *Journal of the History of Sexuality* 16:3 (2007): 436-458.
+- Eduardo Archetti, <a href="" target="_blank" rel="noopener noreferrer">"Masculinity, Primitivism, and Power: Gaucho, Tango, and the Shaping of Argentine National Identity,"</a> in *Gender, Sexuality, and Power*, 212-29.
+James Green, "The Homosexual Appropriation of Rio's Carnival" in *Beyond Carnival: Male Homosexuality in Twentieth-Century Brazil* (Univ of Chicago Press, 1999): 199-241.
+20th century Revs (RXN)
 
 
-**Unit 3: Revolutionary Sexualities?**
+## Week 8
+
+### Tues, Mar 10 - 
+
+In-Class Workday
 
 
-### Thurs, Mar 5 - 20th century Revs (RXN)
 
-**Readings:**
-- Sandra McGee Deutsch, <a href="" target="_blank" rel="noopener noreferrer">"Gender and Sociopolitical Change in 20th Century Latin America,"</a> *Hispanic American Historical Review* 71:2 (1991): 259-306.
+### Thurs, 
 
 **Assignments:**
 - Paper #2 Due
 
 
-## Week 8
+## Spring Break - Mar 16-20
+
+**Unit 3: Revolutionary Sexualities?**
+## Week 9
 
 
-### Tues, Mar 10 - Mexican Revolution (RXN)
+### Tues, Mar 24 - Mar 12 - Mexican Revolution (RXN)
 
 **Readings:**
 - Katherine Bliss, <a href="" target="_blank" rel="noopener noreferrer">"The Science of Redemption: Syphilis, Sexual Promiscuity, and Reformism in Revolutionary Mexico City,"</a> *HAHR* 79:1 (Feb. 1999): 1-40.
@@ -137,76 +145,43 @@ layout: default
 - Katherine Bliss and Ann S. Blum, <a href="" target="_blank" rel="noopener noreferrer">"Dangerous Driving: Adolescence, Sex, and the Gendered Experience of Public Space in Early-Twentieth-Century Mexico City,"</a> in *Gender, Sexuality, and Power*, 163-86.
 
 
-### Thurs, Mar 12 - The Cuban Revolution (RXN)
+**Assignments:**
+- Decision Date: CEP or Final Research Paper
+
+
+### Thurs, Mar 26 - The Cuban Revolution (RXN)
 
 **Readings:**
 - Rachel Hynson, <a href="" target="_blank" rel="noopener noreferrer">"'Count, Capture, and Reeducate': The Campaign to Rehabilitate Cuba's Female Sex Workers, 1959-1965,"</a> *Journal of the History of Sexuality* 24:1 (2015): 125-153.
 - Lillian Guerra, <a href="" target="_blank" rel="noopener noreferrer">"Gender Policing, Homosexuality and the New Patriarchy of the Cuban Revolution, 1965-1970,"</a> *Social History* 35:3 (2010): 268-89.
 - Marvin Leiner, <a href="" target="_blank" rel="noopener noreferrer">"AIDS: Cuba's Efforts to Contain,"</a> in *Sexual Politics in Cuba: Machismo, Homosexuality, and AIDS* (Boulder: Westview Press, 1994): 117-58.
 
+## Week 10
 
-**Assignments:**
-- Decision Date: CEP or Final Research Paper
-
-
-## Spring Break - Mar 16-20
-
-
-## Week 9
-
-
-### Tues, Mar 24 - Sex and the Cold War (RXN)
+### Tues, Mar 31 - Sex, the Cold War and Authoritarianism (RXN)
 
 - Valerua Manzano, "Sexualizing Youth: Morality Campaigns and Representations of Youth in Early 1960s Buenos Aires," *Journal of the History of Sexuality* 14:4 (2005): 433-61.
 - Benjamin Cowan, *Securing Sex: Morality and Repression in the Making of Cold War Brazil* (UNC Press, 2016): <a href="https://www-jstor-org.denison.idm.oclc.org/stable/10.5149/9781469627519_cowan" target="_blank" rel="noopener noreferrer">CHAPTERS TBD</a>
-
-
-
-### Thurs, Mar 26 - Women and Authoritarianism (RXN)
-
-**Readings:**
-- Ximena Bunster, <a href="" target="_blank" rel="noopener noreferrer">"Surviving Beyond Fear: Women and Torture in Latin America,"</a> in *Violence and Women*, Miranda Davis, comp. (Altantic Heights, NJ: Zed Books, 1994), 156-76.
 - Joanne Hershfield, <a href="" target="_blank" rel="noopener noreferrer">"More than Pawns: Right Wing Women in Chile"</a> *Journal of Women's History* 16:3 (2004); 138-51.
-- Marysa Navarro, <a href="" target="_blank" rel="noopener noreferrer">"The Personal is Political: las Madres de Plaza de Mayo,"</a> in *Power and Popular Protest: Latin American Social Movements*, Susan Eckstein, ed., (Berkeley: Univ. of California Press, 1989), 241-58.
+- Ximena Bunster, <a href="" target="_blank" rel="noopener noreferrer">"Surviving Beyond Fear: Women and Torture in Latin America,"</a> in *Violence and Women*, Miranda Davis, comp. (Altantic Heights, NJ: Zed Books, 1994), 156-76.
 
 
-## Week 10
+### Thurs, Apr 2 - 20th Century Queer Identities
 
-
-### Tues, Mar 31 - Nicaraguan Revolution and Sexuality (RXN)
-
-**Readings:**
-- David Kunzle, <a href="" target="_blank" rel="noopener noreferrer">"Róger Sánchez's "Humor Erótico" and the Semana Cómica: A Sexual Revolution in Sandinista Nicaragua?"</a> *Latin American Perspectives* 25:4 (1998): 89-120.
-- Rodger Lancaster, <a href="" target="_blank" rel="noopener noreferrer">"'That We Should All Turn Queer?' Homosexual Stigma in the Making of Manhood and the Breaking of a Revolution in Nicaragua."</a> Richard Parker and John Gagnon, eds. *Conceiving Sexuality: Approaches to Sex Research in a Postmodern World.* (New York: Routledge, 1995), 135-157.
-- Lois Wessel, <a href="" target="_blank" rel="noopener noreferrer">"Reproductive Rights in Nicarauga"</a> *Feminist Studies* 17:3 (1991): 536-549.
-- Maxine Molyneux, <a href="" target="_blank" rel="noopener noreferrer">"Mobilization Without Emancipation? Women's Interests, the State, and Revolution in Nicaragua"</a> *Feminist Studies* 11 (1985): 227-254
-
-
-### Thurs, Apr 2 - Sexuality and Popular Culture (RXN)
-
-**Readings:**
-- Green, *Beyond Carnival*, 147-242.
-- Eduardo Archetti, <a href="" target="_blank" rel="noopener noreferrer">"Masculinity, Primitivism, and Power: Gaucho, Tango, and the Shaping of Argentine National Identity,"</a> in *Gender, Sexuality, and Power*, 212-29.
+**Readings**
+TBD
+- Millie Thayer, <a href="" target="_blank" rel="noopener noreferrer">"Identity, Revolution, and Democracy: Lesbian Movements in Central America,"</a> *Social Problems* 44:3 (Aug 1997): 386-407.
 
 
 ## Week 11
 
-
-### Tues, Apr 7 - Redemocratization, Gender, and Gay Liberation (RXN)
+### Tues, Apr 7 - Reproductive Rights
 
 **Readings:**
-- Green, *Beyond Carnival*, 242-79.
-- Millie Thayer, <a href="" target="_blank" rel="noopener noreferrer">"Identity, Revolution, and Democracy: Lesbian Movements in Central America,"</a> *Social Problems* 44:3 (Aug 1997): 386-407.
-- <a href="" target="_blank" rel="noopener noreferrer">"How Pink is the´Pink Tide´? Feminist and LBGT Activists Challenge the Left,"</a> *Nacla Report on the Americas* 40:2 (March-April 2007), 16-44.
+- Lois Wessel, <a href="" target="_blank" rel="noopener noreferrer">"Reproductive Rights in Nicarauga"</a> *Feminist Studies* 17:3 (1991): 536-549.
+Readings TBD
 
-
-### Thurs, Apr 9 - Film: *Y Tu Mama También*
-
-
-## Week 12
-
-
-### Tues, Apr 14 - Modern Mexican Sexualities (RXN)
+### Thurs, Apr 9 - Modern Mexican Sexualities (RXN)
 
 **Readings:**
 - Ernesto R. Acevedo-Muñoz, <a href="" target="_blank" rel="noopener noreferrer">"Sex, Class, and Mexico in Alfonso Cuarón's Y tu mama también,"</a> *Film and History*, 34:1 (2004), 39-48
@@ -214,39 +189,27 @@ layout: default
 - Gabriela Soto Lavega, <a href="" target="_blank" rel="noopener noreferrer">" 'Let's Become Fewer: Soap Operas, the Pill, and Population Campains, 1976-1986,"</a> *Sexuality Research and Social Policy Journal* 4:3 (2007): 19-33
 
 
-### Thurs, Apr 16 - Film: *Señorita Extraviada*
 
-**Assignments:**
-- Paper Topic and Bibliography Due
+## Week 12
 
+### Tues, Apr 14 - Pornography and Democracy
 
+### Thurs, April 16 - In-Class Workday
 ## Week 13
 
 
-### Tues, Apr 21 - Ciudad Juarez: Sex and Murder (RXN)
+### Tues, Apr 21 - In-Class Workday
 
-**Readings:**
-- Mariana Katzarova, <a href="" target="_blank" rel="noopener noreferrer">"Letter from Juarez,"</a> *The Nation* 278:12 (March 29, 2004): 8.
-- Alma Guillermoprieto, <a href="" target="_blank" rel="noopener noreferrer">"A Hundred Women. Why Has a Decade Long String of Murders Gone Unsolved?"</a> *The New Yorker*, Sept. 29, 2003, 83-93.
-- Jessica Livingston, <a href="" target="_blank" rel="noopener noreferrer">"Murder in Juárez: Gender, Sexual Violence, and the Global Assembly Line,"</a> *Frontiers: A Journal of Womens Studies* 25:1 (2004); 59-76.
+Assignment: Project #3 Due
 
 
-### Thurs, Apr 23 - Women's Health in 20th-century Latin America
-
-**Readings:**
-- Primary Source Module: <a href="" target="_blank" rel="noopener noreferrer">"Women and Health in Latin America"</a> from *Women in History* (Center for History and New Media, George Mason University)
+### Thurs, Apr 23 - Where are we now? Presentations
 
 
 ## Week 14
 
 
-### Tues, Apr 28 - Where Are we Now
-
-**Readings:**
-- Anna Uziel, <a href="" target="_blank" rel="noopener noreferrer">"Homosexuality and Adoption in Brazil,"</a> *Reproductive Health Matters* 9:19 (2001): 34-42.
-- Omar G. Encarnación. <a href="" target="_blank" rel="noopener noreferrer">"Latin America's Gay Rights Revolution."</a> *Journal of Democracy* 22.2 (2011): 104-118. Project MUSE. Web. 18 Apr. 2011.
-- Seah Flynn, <a href="" target="_blank" rel="noopener noreferrer">"Where they Love Americans…for a Living,"</a> *The Best Travel Writing 2006*, Tim Cahill, ed., (Boston: Houghton Mifflin, 2006), 105-112.
-- Additional Readings TBA
+### Tues, Apr 28 - 
 
 
 ### Thurs, Apr 30 - Paper #3 Due

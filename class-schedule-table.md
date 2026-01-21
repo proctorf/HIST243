@@ -21,19 +21,20 @@
 | Thursday, March 5 | 2.5 Sex and Popular Culture (Ben, Green, Archetti) |
 | Tuesday, March 10 | 2.6 Senhora |
 | Thursday, March 12 | In Class Work Day|
-| Tuesday, March 17 | 3.1 Mexican Rev|
-| Thursday, March 19 | 3.2 Cuban Rev |
-| Tuesday, March 24 | 3.3.Sex and the Cold Ward (Manzano and Cowan) |
-| Thursday, March 26 | 3.4 20th Century Queer Identies (Green) |
-| Tuesday, March 31 | 3.5 Women, Sex, and Authoritarianism |
-| Thursday, April 2 | 3.6  Reproductive Rights (bill and sterilization) Wessel too|
-| Tuesday, April 7 | 3.7 Modern Mexican Sexualities|
-| Thursday, April 9 | 3.8 Pornography and Democracy |
-| Tuesday, April 14 | In Class Workday |
-| Thursday, April 16 |  |
-| Tuesday, April 21 | Where are we now? presentations|
-| Thursday, April 23 | CEP |
-| Tuesday, April 28 | CEP / Course Evals |
+| Tuesday, March 17 |  |
+| Thursday, March 19 |  |
+| Tuesday, March 24 | 3.1 Mexican Rev|
+| Thursday, March 26 | 3.2 Cuban Rev |
+| Tuesday, March 31 | 3.3.Sex and the Cold Ward (Manzano and Cowan) |
+| Thursday, April 2 | 3.4 20th Century Queer Identies (Green) |
+| Tuesday, April 7 | 3.5 Women, Sex, and Authoritarianism |
+| Thursday, April 9 | 3.6  Reproductive Rights (bill and sterilization) Wessel too|
+| Tuesday, April 14 | 3.7 Modern Mexican Sexualities|
+| Thursday, April 16 | 3.8 - Pornography and Democracy |
+| Tuesday, April 21 | |
+| Thursday, April 23 | Where are we now? presentations |
+| Tuesday, April 28 | CEP|
+| Thursday, April 30 | CEP / Course Evals |
 
 ---
 *Print this page for a handy class schedule with space for notes*
