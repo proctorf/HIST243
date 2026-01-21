@@ -83,8 +83,14 @@ In-Class Workday on Project 1
 ## Week 5 - Unit Two: Sexuality and State Building
 
 ### Thurs, Feb 19 - 
+
+- Sarah C. Chambers, <a href="https://doi-org.denison.idm.oclc.org/10.2307/j.ctv12101v5.5">"Private Crimes, Public Order: Honor, Gender, and the Law in Early Republican Peru," in *Honor, Status, and Law in Modern Latin America,* Sueann Caulfield and Lara Putnam, eds., (Duke University Press, 2005): 27-49.
+
+Rebecca Earle, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_walterdegruyter_books_10_1515_9780822380238_007">"Race and the Anxious Republic: Revolutionary Columbia, 1810-1830,"</a> *Hidden Histories of Gender and the State in Latin America* Elizabeth Dore and Maxine Molyneux, eds. (,2020): 127-146.
+
+
 **Assignments:**
-- Project #1 Due
+- Project #1 Due : Friday Feb 20 @ 11:59pm
 
 ## Week 6
 
@@ -188,33 +194,31 @@ Readings TBD
 - Héctor Carrillo, <a href="" target="_blank" rel="noopener noreferrer">"Neither Machos nor Maricones: Masculinity and Emerging Male Homosexual Identities in Mexico,"</a> in *Changing Men and Masculinities in Latin America*, Mathew Guttman, ed., (Durham: Duke Univ Press, 2003), 351-69.
 - Gabriela Soto Lavega, <a href="" target="_blank" rel="noopener noreferrer">" 'Let's Become Fewer: Soap Operas, the Pill, and Population Campains, 1976-1986,"</a> *Sexuality Research and Social Policy Journal* 4:3 (2007): 19-33
 
-
-
 ## Week 12
 
 ### Tues, Apr 14 - Pornography and Democracy
 
-### Thurs, April 16 - In-Class Workday
-## Week 13
+Natalia Milanesio, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_journals_2186207271" target="_blank">"Sex and Democracy: The Meanings of *Destape* in Postdictatorial Argentina,"</a> *Hispanic American Historical Review* 99:1 (2019):91-122.
 
+Santiago Insausti and Pablo Ben, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_crossref_primary_10_1080_13569325_2023_2286975" target="_blank">"Race and Politics in Peruvian and Argentine Porn Under the Transition to Democracy, 1975-1985" *Journal of Latin American Cultural Studies* 32:4 (2023): 629-655.
+
+
+### Thurs, April 16 - In-Class Workday
+
+## Week 13
 
 ### Tues, Apr 21 - In-Class Workday
 
-Assignment: Project #3 Due
-
+**Assignment: Project #3 Due**
 
 ### Thurs, Apr 23 - Where are we now? Presentations
 
-
 ## Week 14
 
+### Tues, Apr 28 - Float Day (CEP, Evals, etc)
 
-### Tues, Apr 28 - 
 
-
-### Thurs, Apr 30 - Paper #3 Due
-
-- Course Evaluations
+### Thurs, Apr 30 - CEP Presentations
 
 ***Final Project Due: Monday May 11 @ 4pm***
 
