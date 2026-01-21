@@ -107,13 +107,14 @@ The following required books are available in the bookstore:
 Students are expected to attend class, to have completed the reading, and to be prepared to discuss the major arguments and implications of the work.  Please bring copies of the assigned readings to class.  The instructor reserves the right to give pop quizzes in these discussion sections should they not meet my satisfaction.
 
 
-Grading <br>
+## Grading
+
 | Assignments | Weight |
-|---------------------|------------------------------|
-| Final Project |		30% total (See assignment for breakdown)|
-| Unit Project		|	40% (approx 13.3% each)) |
-| Reaction Papers		|	10% |
-| Contribution| 20% |
+|-------------|--------|
+| Final Project | 30% total (See assignment for breakdown) |
+| Unit Project | 40% (approx 13.3% each) |
+| Reaction Papers | 10% |
+| Contribution | 20% |
 
 **Late Assignments** 
 
