@@ -20,7 +20,7 @@ title: Weekly Schedule
 ### Thurs, Jan 22 - Theoretical Frameworks
 
 **Readings:**
-- Jeffrey Weeks, <a href="" target="_blank" rel="noopener noreferrer">"The Social Construction of Sexuality"</a> and Rictor Norton, <a href="" target="_blank" rel="noopener noreferrer">"Essentialism and Queer History,"</a> in *Major Problems in the History of American Sexuality: Document and Essays*, Kathy Lee Peiss, ed. (Houghton Mifflin, 2002), 2-24.
+- Jeffrey Weeks,<a href="https://drive.google.com/file/d/1G4oPYCqW3N7gLlESQWs_-gDR-gMX78Ky/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"The Social Construction of Sexuality"</a> and Rictor Norton, "Essentialism and Queer History," in *Major Problems in the History of American Sexuality: Document and Essays*, Kathy Lee Peiss, ed. (Houghton Mifflin, 2002), 2-24.
 
 - Pete Sigal, <a href="https://www.jstor.org/stable/23303430" target="_blank" rel="noopener noreferrer">"Latin America and the Challenge of Globalizing the History of Sexuality,"</a> *American Historical Review* 114:5 (2009): 1340-1353.
 
