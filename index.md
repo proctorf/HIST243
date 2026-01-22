@@ -41,12 +41,11 @@ Papers must be double spaced, employ Times New Roman 12 point font, have 1 inch 
 
 The syllabus has been divided into Three Units (Sex, Conquest, and Colonialism; Sexuality and State Building; and, Revolutionary Sexualities?) and you are required to write one paper on two of those three Units.  (First and Second Year Students must to write on Unit One so I have something for midterm grades).
 
-Project Due dates:
-Unit One – Tuesday, October 6th
-Unit Two – Tuesday, October 27th
-Unit Three – Tuesday, December 15th
+Project Due dates:<br>
+Unit One – Friday Feb 20 @ 11:59pm<br>
+Unit Two – Wednesday March 25 @ 11:59pm <br>
+Unit Three – Monday April 20 @ 11:59pm
 
-At the end of each unit we will focus on a piece of literature or films (feature and documentaries).  As a way to conceptualize papers, you may want to build potential arguments around using those sources to engage some of the debates we have uncovered through our discussions of the historical scholarship within the unit.  That is certainly not the only way to conceptualize potential paper topics, but it might be helpful.
 
 ### Reaction Papers <!-- Not sure if I want 3 or 6 of these -->
 Throughout the semester each student will be required to submit six reactions papers that respond to a particular day’s readings. You write reactions for any two days from each of the three units in the class (Sex, Conquest, and Colonialism, Sexuality and State Building, and Revolutionary Sexualities?). In addition, please include two questions for consideration in order to stimulate discussion.  The purpose of these assignments is to engage the readings prior to class.
@@ -112,8 +111,9 @@ Students are expected to attend class, to have completed the reading, and to be 
 | Assignments | Weight |
 |-------------|--------|
 | Final Project | 30% total (See assignment for breakdown) |
-| Unit Project | 40% (approx 13.3% each) |
+| Unit Projects | 30% (approx 10% each) |
 | Reaction Papers | 10% |
+| "Where are we now?" Project | 10% |
 | Contribution | 20% |
 
 **Late Assignments** 
