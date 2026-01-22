@@ -1,7 +1,12 @@
 ---
 title: Home
-layout: default
 ---
+
+<nav style="background-color: #f4f4f4; padding: 10px; margin-bottom: 20px; border-bottom: 2px solid #333;">
+  <a href="index.html" style="margin-right: 20px; text-decoration: none; color: #333; font-weight: bold;">Home</a>
+  <a href="schedule.html" style="margin-right: 20px; text-decoration: none; color: #333; font-weight: bold;">Schedule</a>
+  <a href="unit-projects.html" style="text-decoration: none; color: #333; font-weight: bold;">Unit Projects</a>
+</nav>
 
 # HIST/LACS/WGST 243 – Sex and Sexuality in Latin America
 
