@@ -50,10 +50,17 @@ Unit Three – Monday April 20 @ 11:59pm
 ### Reaction Papers <!-- Not sure if I want 3 or 6 of these -->
 Throughout the semester each student will be required to submit six reactions papers that respond to a particular day’s readings. You write reactions for any two days from each of the three units in the class (Sex, Conquest, and Colonialism, Sexuality and State Building, and Revolutionary Sexualities?). In addition, please include two questions for consideration in order to stimulate discussion.  The purpose of these assignments is to engage the readings prior to class.
 
+*Dates Spans for Reaction Papers (2 per Unit)*<br>
+Unit 1 - Colonial Sexualities - Jan 27 thru Feb 12<br>
+Unit 2 - Sex and Nation Building - Feb 19 thru March 10 <br>
+Unit 3 - Revolutionary and Postrevolutionary Sexualities - March 24 thru April 14
+
 #### Instructions
 Identify a key theme or argument from one or multiple readings for the day and *respond* to it.  What does this idea make you think?  How does it engage, alter, reformulate themes we have been discussing this semester?
 
 Response papers must demonstrate that you have fully read, understood or struggled to understand, and thought about the article(s) in question.  And, the best response papers will put the reading under consideration in conversation with other readings from the course.  Grammar will not be considered, only ideas.
+
+Please use in-text citations (e.g (Proctor, 21)) when necessary.
 
 Grading will be credit/half credit/no-credit.  Simply engage the readings and you will receive full credit.  The reaction papers should be 1-2 pgs single spaced. Specific instructions will follow.
 
@@ -67,6 +74,15 @@ The reaction papers will be due at 12:30pm on the day the materials you write on
 
 
 **The days that you can submit reaction papers are marked by (RXN) on the syllabus.**
+
+## "Where are we now?" Presentations
+# "Where Are We Now?" Assignment
+
+**Course:** History of Sex and Sexuality in Latin America
+
+In this team research project, teams of three students will build on our semester's discussions by investigating the current state of affairs regarding *either* women's reproductive rights *or* LGBTQ+ rights (marriage, adoption, etc) in a Latin American country of your choice. Your team's tasks will include selecting a country and topic (subject to instructor approval), researching current conditions using web and other sources, evaluating your sources for credibility and bias, synthesizing your findings in relation to class themes, and presenting your results in a 10-minute presentation. Your deliverables will consist of the presentation itself (with visuals), a source list with annotations, and a one-page source evaluation explaining how you assessed the reliability of your materials. To meet the assignment requirements, you must use a minimum of four credible sources. 
+
+Presentations will take place on Thursday April 23.
 
 ## Final Project – 
 

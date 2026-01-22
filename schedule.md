@@ -125,35 +125,25 @@ James Green, "The Homosexual Appropriation of Rio's Carnival" in *Beyond Carniva
 
 ## Week 8
 
-### Tues, Mar 10 - 
+### Tues, Mar 10 - Senhora
+Jose de Alencar, *Senhora* Entire
 
-In-Class Workday
-
-
-
-### Thurs, 
-
-**Assignments:**
-- Paper #2 Due
+### Thurs, - Mar 12 - In-Class Workday
 
 
-## Spring Break - Mar 16-20
+# Spring Break - Mar 16-20
 
-**Unit 3: Revolutionary Sexualities?**
+**Unit 3: Revolutionary and Postrevolutionary Sexualities?**
 ## Week 9
 
-
-### Tues, Mar 24 - Mar 12 - Mexican Revolution (RXN)
+### Tues, Mar 24 - Mexican Revolution (RXN)
 
 **Readings:**
 - Katherine Bliss, <a href="" target="_blank" rel="noopener noreferrer">"The Science of Redemption: Syphilis, Sexual Promiscuity, and Reformism in Revolutionary Mexico City,"</a> *HAHR* 79:1 (Feb. 1999): 1-40.
 - Robert Buffington, <a href="" target="_blank" rel="noopener noreferrer">"La 'Dancing" Mexicana: Danzón and the Transformation of Intimacy in Post-Revolutionary Mexico City,"</a> *Journal of Latin American Cultural Studies*, 14:1 (2005); 87-108.
 - Katherine Bliss and Ann S. Blum, <a href="" target="_blank" rel="noopener noreferrer">"Dangerous Driving: Adolescence, Sex, and the Gendered Experience of Public Space in Early-Twentieth-Century Mexico City,"</a> in *Gender, Sexuality, and Power*, 163-86.
 
-
-**Assignments:**
-- Decision Date: CEP or Final Research Paper
-
+### DUE - Project #2 - WEDNESDAY March 25 @ 11:59pm
 
 ### Thurs, Mar 26 - The Cuban Revolution (RXN)
 
@@ -170,6 +160,9 @@ In-Class Workday
 - Benjamin Cowan, *Securing Sex: Morality and Repression in the Making of Cold War Brazil* (UNC Press, 2016): <a href="https://www-jstor-org.denison.idm.oclc.org/stable/10.5149/9781469627519_cowan" target="_blank" rel="noopener noreferrer">CHAPTERS TBD</a>
 - Joanne Hershfield, <a href="" target="_blank" rel="noopener noreferrer">"More than Pawns: Right Wing Women in Chile"</a> *Journal of Women's History* 16:3 (2004); 138-51.
 - Ximena Bunster, <a href="" target="_blank" rel="noopener noreferrer">"Surviving Beyond Fear: Women and Torture in Latin America,"</a> in *Violence and Women*, Miranda Davis, comp. (Altantic Heights, NJ: Zed Books, 1994), 156-76.
+
+**Assignments:**
+- Decision Date: CEP or Final Research Paper
 
 
 ### Thurs, Apr 2 - 20th Century Queer Identities
@@ -218,7 +211,7 @@ Santiago Insausti and Pablo Ben, <a href="https://primo.denison.edu/permalink/01
 ### Tues, Apr 28 - Float Day (CEP, Evals, etc)
 
 
-### Thurs, Apr 30 - CEP Presentations
+### Thurs, Apr 30 - CEP/Project Presentations
 
 ***Final Project Due: Monday May 11 @ 4pm***
 
