@@ -31,7 +31,6 @@ title: Weekly Schedule
 ### Tues, Jan 27 - Sex and Conquest (RXN)
 
 **Readings:**
-- Richard Trexler, <a href="" target="_blank" rel="noopener noreferrer">"Gender Subordination and Political Hierarchy in Pre-Hispanic America,"</a> in *Infamous Desire: Male Homosexuality in Colonial Latin America*, Pete Sigal, ed., (Univ. of Chicago Press, 2003), 70-101.
 - Richard Trexler, <a href="https://drive.google.com/file/d/1hjikgiYdCwjAviS2p1EAlXAse5NSEjY3/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"Gender Subordination and Political Hierarchy in Pre-Hispanic America,"</a> in *Infamous Desire: Male Homosexuality in Colonial Latin America*, Pete Sigal, ed., (Univ. of Chicago Press, 2003), 70-101.
 
 - Gregory Smithers, <a href="https://drive.google.com/file/d/1sHt16Ohfp7ml_WiHE9uifaw4qPQEZxQv/view?usp=sharing" target="_blank" rel="noopener noreferrer">"Part 1 Judgements,"</a> in *Reclaiming Two-Spirits: Sexuality, Spiritual Renewal, and Sovereignty in Native America* (Beacon Press, 2022), *xvii-xxxiii* and 3-63.
