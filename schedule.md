@@ -74,7 +74,7 @@ title: Weekly Schedule
 
 
 
-### Thurs, Feb 12 - Catalina de Erauso
+### Thurs, Feb 12 - Catalina de Erauso (RXN)
 
 **Readings:**
 - Catalina de Erauso, *Lieutenant Nun: Memoir of a Basque Transvestite in the New World*, trans by Michele Septo and Gabriel Septo, (Boston: Beacon Press, 1996).  Entire

@@ -61,13 +61,13 @@ Unit 2 - Sex and Nation Building - Feb 19 thru March 10 <br>
 Unit 3 - Revolutionary and Postrevolutionary Sexualities - March 24 thru April 14
 
 #### Instructions
-Identify a key theme or argument from one or multiple readings for the day and *respond* to it.  What does this idea make you think?  How does it engage, alter, reformulate themes we have been discussing this semester?
+Identify a key theme or argument from one or multiple readings for the day and *respond* to it.  What does this idea make you think?  How does it engage, alter, reformulate themes we have been discussing this semester? **You might identify what you think the single most important sentence in the readings was and then explain why, articulating how it is making you think about our topics.**
 
 Response papers must demonstrate that you have fully read, understood or struggled to understand, and thought about the article(s) in question.  And, the best response papers will put the reading under consideration in conversation with other readings from the course.  Grammar will not be considered, only ideas.
 
 Please use in-text citations (e.g (Proctor, 21)) when necessary.
 
-Grading will be credit/half credit/no-credit.  Simply engage the readings and you will receive full credit.  The reaction papers should be 1-2 pgs single spaced. Specific instructions will follow.
+Grading will be credit/half credit/no-credit.  Simply engage the readings and you will receive full credit.  The reaction papers should be 1-2 pgs single spaced.
 
 *Warning:* excellent summaries of the reading can earn no higher than a half-credit for the assignment. You must also find a way to intellectually engage the ideas from the piece.
 
