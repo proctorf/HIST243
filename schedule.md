@@ -60,7 +60,7 @@ title: Weekly Schedule
 
 - Zeb Tortorici, <a href="https://www.jstor.org/stable/30114188" target="_blank" rel="noopener noreferrer">"Masturbation, Salvation, and Desire: Connecting Sexuality and Religiousity in Colonial Mexico,"</a> *Journal of the History of Sexuality* 16:3 (2007): 355-72.
 
-- Martha Few, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_38636432" target="_blank" rel="noopener noreferrer">"'That Monster of Nature':Gender, Sexuality, and the Medicalization of a 'Hermaphrodite' in Late Colonial Guatemala,"</a> *Ethnohistory* 54:1 (2007): 159-176. 
+- Martha Few, <a href="https://doi.org/10.1215/00141801-2006-042" target="_blank" rel="noopener noreferrer">"'That Monster of Nature':Gender, Sexuality, and the Medicalization of a 'Hermaphrodite' in Late Colonial Guatemala,"</a> *Ethnohistory* 54:1 (2007): 159-176. 
 
 
 ## Week 4
@@ -71,6 +71,7 @@ title: Weekly Schedule
 **Readings:**
 - Ward Stavig, <a href="https://drive.google.com/file/d/1OzktgD1_n5g9Pnfusvj_-XIE7LpFc5_g/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"Political "Abomination" and Private Reservation: The Nefarious Sin, Homosexuality, and Cultural Values in Colonial Peru,"</a> in *Infamous Desire*, 70-101.
 - Zeb Tortorici, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_webofscience_primary_000243649900004" target="_blank" rel="noopener noreferrer">"'Heran Todos Putos': Sodomitical Subcultures and Disordered Desire in Early Colonial Mexico,"</a> *Ethnohistory* 54:1 (2007): 35-67.
+- Chad T. Black, <a href="https://www.jstor.org/stable/10.1525/j.ctt19b9jgt.11" target="_blank">"Prosecuting Female-Female Sex in Bourbon Quito,"</a> in *Sexuality and the Unnatural in Colonial Latin America*, Zeb Tortorici, ed., (Univ of California Press, 2016), 120-140. 
 
 
 
@@ -78,7 +79,7 @@ title: Weekly Schedule
 
 **Readings:**
 - Catalina de Erauso, *Lieutenant Nun: Memoir of a Basque Transvestite in the New World*, trans by Michele Septo and Gabriel Septo, (Boston: Beacon Press, 1996).  Entire
-- Chad T. Black, <a href="https://www.jstor.org/stable/10.1525/j.ctt19b9jgt.11" target="_blank">"Prosecuting Female-Female Sex in Bourbon Quito,"</a> in *Sexuality and the Unnatural in Colonial Latin America*, Zeb Tortorici, ed., (Univ of California Press, 2016), 120-140. 
+
 
 
 ### Tues, Feb 17 - 
