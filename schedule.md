@@ -79,6 +79,7 @@ title: Weekly Schedule
 
 **Readings:**
 - Catalina de Erauso, *Lieutenant Nun: Memoir of a Basque Transvestite in the New World*, trans by Michele Septo and Gabriel Septo, (Boston: Beacon Press, 1996).  Entire
+- <a href="https://proctorf.github.io/HIST243/media/Lt_Nun.pdf" target="_blank">Text</a> and <a href="https://proctorf.github.io/HIST243/media/Lt_Nun_Intro_and_Foreword.pdf" target="_blank">Introduction and Foreword</a>
 
 
 
