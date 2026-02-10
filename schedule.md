@@ -69,7 +69,7 @@ title: Weekly Schedule
 ### Tues, Feb 10 - Colonial Homosexualities (RXN)
 
 **Readings:**
-- Ward Stavig, <a href="https://drive.google.com/file/d/1OzktgD1_n5g9Pnfusvj_-XIE7LpFc5_g/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"Political "Abomination" and Private Reservation: The Nefarious Sin, Homosexuality, and Cultural Values in Colonial Peru,"</a> in *Infamous Desire*, 70-101.
+- Ward Stavig, <a href="https://drive.google.com/file/d/1OzktgD1_n5g9Pnfusvj_-XIE7LpFc5_g/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"Political "Abomination" and Private Reservation: The Nefarious Sin, Homosexuality, and Cultural Values in Colonial Peru,"</a> in *Infamous Desire*, 70-101. <!-- you need to replace this with the Gruzinski reading from Infamous Desire. the Stavig reading is pretty lame-->
 - Zeb Tortorici, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_webofscience_primary_000243649900004" target="_blank" rel="noopener noreferrer">"'Heran Todos Putos': Sodomitical Subcultures and Disordered Desire in Early Colonial Mexico,"</a> *Ethnohistory* 54:1 (2007): 35-67.
 - Chad T. Black, <a href="https://www.jstor.org/stable/10.1525/j.ctt19b9jgt.11" target="_blank">"Prosecuting Female-Female Sex in Bourbon Quito,"</a> in *Sexuality and the Unnatural in Colonial Latin America*, Zeb Tortorici, ed., (Univ of California Press, 2016), 120-140. 
 
@@ -79,6 +79,7 @@ title: Weekly Schedule
 
 **Readings:**
 - Catalina de Erauso, *Lieutenant Nun: Memoir of a Basque Transvestite in the New World*, trans by Michele Septo and Gabriel Septo, (Boston: Beacon Press, 1996).  Entire
+- <a href="https://proctorf.github.io/HIST243/media/Lt_Nun.pdf" target="_blank">Text</a> and <a href="https://proctorf.github.io/HIST243/media/Lt_Nun_Intro_and_Foreword.pdf" target="_blank">Introduction and Foreword</a>
 
 
 
