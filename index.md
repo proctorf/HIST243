@@ -40,7 +40,11 @@ For suggestions on how to read a secondary source, look <a href="https://www.car
 ## Assignments:
 
 ### Unit Projects – <!-- Not sure if I want 2 or 3 of these -->
-You will be responsible for three projects (6-page min), during the course of the semester. The projects will be formal historical essays, which will be graded on the thoughtfulness of the historical questions, the argument (thesis) and the degree to which the thesis is supported by cited evidence. Papers will be based upon the assigned readings and you will be free to select the theme and content of your paper.  You are not required to conduct extra research for these paper, but my do so if you wish.  The papers should be expansive, trying to draw on as many readings as possible.
+You will be responsible for three projects (6-page min), during the course of the semester. The projects will be *the equivalent of* formal historical essays, which will be graded on the thoughtfulness of the historical questions, the argument (thesis) and the degree to which the thesis is supported by cited evidence. 
+
+Basic Instructions - Across 3–5 readings per unit (with room to incorporate additional sources), you will develop a defendable thesis, synthesize multiple perspectives, and situate local cases within broader historiographical contexts. You may choose from a range of innovative, nontraditional formats or write the standard six-page interpretive essay as the baseline; in all cases, your work should demonstrate deep critical thinking, careful source use, and coherent argumentation. If you select a nontraditional format, you must include a brief reflection explaining how the format influenced your argument and use of sources.
+
+For full instructions, see  <a href="unit-projects.html" style="font-weight: bold;">Unit Projects</a>. Projects will be based upon the assigned readings and you will be free to select the theme and content of your paper.  You are not required to conduct extra research for these paper, but my do so if you wish.  The projects should be expansive, trying to draw on as many readings as possible.
 
 Papers must be double spaced, employ Times New Roman 12 point font, have 1 inch margins, and have proper footnotes in the Chicago/Turabian style.  
 
