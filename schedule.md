@@ -93,7 +93,7 @@ In-Class Workday on Project 1
 
 - Sarah C. Chambers, <a href="https://doi-org.denison.idm.oclc.org/10.2307/j.ctv12101v5.5">"Private Crimes, Public Order: Honor, Gender, and the Law in Early Republican Peru," in *Honor, Status, and Law in Modern Latin America,* Sueann Caulfield and Lara Putnam, eds., (Duke University Press, 2005): 27-49.
 
-Rebecca Earle, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_walterdegruyter_books_10_1515_9780822380238_007">"Race and the Anxious Republic: Revolutionary Columbia, 1810-1830,"</a> *Hidden Histories of Gender and the State in Latin America* Elizabeth Dore and Maxine Molyneux, eds. (,2020): 127-146.
+- Rebecca Earle, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_walterdegruyter_books_10_1515_9780822380238_007">"Race and the Anxious Republic: Revolutionary Columbia, 1810-1830,"</a> *Hidden Histories of Gender and the State in Latin America* Elizabeth Dore and Maxine Molyneux, eds. (,2020): 127-146.
 
 
 **Assignments:**
