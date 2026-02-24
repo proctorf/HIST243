@@ -119,14 +119,15 @@ In-Class Workday on Project 1
 
 **Readings:**
 - Alejandra Bronfman, <a href="" target="_blank" rel="noopener noreferrer">"Mismeasured Women: Gender and Social Science on the Eve of Female Suffrage in Cuba,"</a> in *Gender, Sexuality, and Power*, 71-86.
+- Jorge Salessi, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_webofscience_primary_A1994MQ76400001" target="_blank" rel="noopener noreferrer">"The Argentine Dissemnination of Homosexuality,"</a> *Journal of the History of Sexuality* 4:3 (1994): 337-368.
+- Sueann Caulfield <a href="https://www.jstor.org/stable/j.ctt9qgbkg.8" target="_blank" rel="noopener noreferrer">"The Birth of *Mangue*: Race, Nation, and the Politics of Prostitution in Rio de Janeiro, 1850-1942,"</a> in *Sex and Sexuality in Latin America: An Interdisciplinary Reader*, Daniel Balderston and Donna J. Guy, eds. (NYU Press, 1997): 86-100.
 
-Additional Reading TBD
 
 ### Thurs, Mar 5 - Sex and Popular Culture <!--- Michael Matthew's book "Sex and Love in Porfirian Mexico includes interesing looking chapters on plebian sexual behavior, it would be great to fit that into--->
 
 - Pablo Ben, <a href="https://www-jstor-org.denison.idm.oclc.org/stable/30114192" target="_blank" rel="noopener noreferrer">"Plebian Masculinity and Sexual Comedy in Buenos Aires, 1880-1930"</a> *Journal of the History of Sexuality* 16:3 (2007): 436-458.
 - Eduardo Archetti, <a href="" target="_blank" rel="noopener noreferrer">"Masculinity, Primitivism, and Power: Gaucho, Tango, and the Shaping of Argentine National Identity,"</a> in *Gender, Sexuality, and Power*, 212-29.
-James Green, "The Homosexual Appropriation of Rio's Carnival" in *Beyond Carnival: Male Homosexuality in Twentieth-Century Brazil* (Univ of Chicago Press, 1999): 199-241.
+- James Green, "The Homosexual Appropriation of Rio's Carnival" in *Beyond Carnival: Male Homosexuality in Twentieth-Century Brazil* (Univ of Chicago Press, 1999): 199-241.
 20th century Revs (RXN)
 
 
