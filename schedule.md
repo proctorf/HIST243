@@ -110,7 +110,7 @@ In-Class Workday on Project 1
 ### Thurs, Feb 26 - Sex, Crime, and the State (RXN)
 
 **Readings:**
-- Pablo Piccato, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_762028254" target="_blank" rel="noopener noreferrer">"'El Chalequero' or the Mexican Jack the Ripper: The Meanings of Sexual Violence in Turn-of-the-Century Mexico City,"</a> *Hispanic American Historical Review* 81:3-4 (2001): 623-51.
+- Pablo Piccato, <a href="https://doi-org.denison.idm.oclc.org/10.1215/00182168-81-3-4-623" target="_blank" rel="noopener noreferrer">"'El Chalequero' or the Mexican Jack the Ripper: The Meanings of Sexual Violence in Turn-of-the-Century Mexico City,"</a> *Hispanic American Historical Review* 81:3-4 (2001): 623-51.
 - Kristin Ruggiero, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_unpaywall_primary_10_1215_00182168_72_3_353" target="_blank" rel="noopener noreferrer">"Honor, Maternity, and the Disciplining of Women: Infanticide in Late Nineteenth-Century Buenos Aires,"</a> *The Hispanic American Historical Review*, 72:3 (1992); 353-73.
 
 ## Week 7
