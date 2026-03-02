@@ -118,7 +118,7 @@ In-Class Workday on Project 1
 ### Tues, Mar 3 - Sexuality and "Modern" Science (RXN)
 
 **Readings:**
-- Alejandra Bronfman, <a href="" target="_blank" rel="noopener noreferrer">"Mismeasured Women: Gender and Social Science on the Eve of Female Suffrage in Cuba,"</a> in *Gender, Sexuality, and Power*, 71-86.
+- Alejandra Bronfman, <a href="https://drive.google.com/file/d/1z14QUOg7IfyZ5njWxmsmYhZu22QdDUwi/view?usp=sharing" target="_blank" rel="noopener noreferrer">"Mismeasured Women: Gender and Social Science on the Eve of Female Suffrage in Cuba,"</a> in *Gender, Sexuality, and Power*, 71-86.
 - Jorge Salessi, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_webofscience_primary_A1994MQ76400001" target="_blank" rel="noopener noreferrer">"The Argentine Dissemnination of Homosexuality,"</a> *Journal of the History of Sexuality* 4:3 (1994): 337-368.
 - Sueann Caulfield <a href="https://www.jstor.org/stable/j.ctt9qgbkg.8" target="_blank" rel="noopener noreferrer">"The Birth of *Mangue*: Race, Nation, and the Politics of Prostitution in Rio de Janeiro, 1850-1942,"</a> in *Sex and Sexuality in Latin America: An Interdisciplinary Reader*, Daniel Balderston and Donna J. Guy, eds. (NYU Press, 1997): 86-100.
 
