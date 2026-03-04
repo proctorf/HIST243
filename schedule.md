@@ -126,7 +126,7 @@ In-Class Workday on Project 1
 ### Thurs, Mar 5 - Sex and Popular Culture <!--- Michael Matthew's book "Sex and Love in Porfirian Mexico includes interesing looking chapters on plebian sexual behavior, it would be great to fit that into--->
 
 - Pablo Ben, <a href="https://www-jstor-org.denison.idm.oclc.org/stable/30114192" target="_blank" rel="noopener noreferrer">"Plebian Masculinity and Sexual Comedy in Buenos Aires, 1880-1930"</a> *Journal of the History of Sexuality* 16:3 (2007): 436-458.
-~~- Eduardo Archetti, <a href="https://drive.google.com/file/d/1FEmy1RgUvqPfyxsi7j-Y89GfhCjAFokh/view?usp=sharing" target="_blank" rel="noopener noreferrer">"Masculinity, Primitivism, and Power: Gaucho, Tango, and the Shaping of Argentine National Identity,"</a> in *Gender, Sexuality, and Power*, 212-29.~~
+- ~~Eduardo Archetti, <a href="https://drive.google.com/file/d/1FEmy1RgUvqPfyxsi7j-Y89GfhCjAFokh/view?usp=sharing" target="_blank" rel="noopener noreferrer">"Masculinity, Primitivism, and Power: Gaucho, Tango, and the Shaping of Argentine National Identity,"</a> in *Gender, Sexuality, and Power*, 212-29.~~
 - James Green, <a href="https://drive.google.com/file/d/1fI3vVNFm0EP2xiEdjOArv80APg39iEPg/view?usp=sharing" target="_blank" rel="noopener noreferrer">"The Homosexual Appropriation of Rio's Carnival"</a> in *Beyond Carnival: Male Homosexuality in Twentieth-Century Brazil* (Univ of Chicago Press, 1999): 199-241.
 20th century Revs (RXN)
 
