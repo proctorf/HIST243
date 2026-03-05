@@ -60,7 +60,7 @@ title: Weekly Schedule
 
 - Zeb Tortorici, <a href="https://www.jstor.org/stable/30114188" target="_blank" rel="noopener noreferrer">"Masturbation, Salvation, and Desire: Connecting Sexuality and Religiousity in Colonial Mexico,"</a> *Journal of the History of Sexuality* 16:3 (2007): 355-72.
 
-- Martha Few, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_38636432" target="_blank" rel="noopener noreferrer">"'That Monster of Nature':Gender, Sexuality, and the Medicalization of a 'Hermaphrodite' in Late Colonial Guatemala,"</a> *Ethnohistory* 54:1 (2007): 159-176. 
+- Martha Few, <a href="https://doi.org/10.1215/00141801-2006-042" target="_blank" rel="noopener noreferrer">"'That Monster of Nature':Gender, Sexuality, and the Medicalization of a 'Hermaphrodite' in Late Colonial Guatemala,"</a> *Ethnohistory* 54:1 (2007): 159-176. 
 
 
 ## Week 4
@@ -69,8 +69,9 @@ title: Weekly Schedule
 ### Tues, Feb 10 - Colonial Homosexualities (RXN)
 
 **Readings:**
-- Ward Stavig, <a href="https://drive.google.com/file/d/1OzktgD1_n5g9Pnfusvj_-XIE7LpFc5_g/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"Political "Abomination" and Private Reservation: The Nefarious Sin, Homosexuality, and Cultural Values in Colonial Peru,"</a> in *Infamous Desire*, 70-101.
+- Ward Stavig, <a href="https://drive.google.com/file/d/1OzktgD1_n5g9Pnfusvj_-XIE7LpFc5_g/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"Political "Abomination" and Private Reservation: The Nefarious Sin, Homosexuality, and Cultural Values in Colonial Peru,"</a> in *Infamous Desire*, 70-101. <!-- you need to replace this with the Gruzinski reading from Infamous Desire. the Stavig reading is pretty lame-->
 - Zeb Tortorici, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_webofscience_primary_000243649900004" target="_blank" rel="noopener noreferrer">"'Heran Todos Putos': Sodomitical Subcultures and Disordered Desire in Early Colonial Mexico,"</a> *Ethnohistory* 54:1 (2007): 35-67.
+- Chad T. Black, <a href="https://www.jstor.org/stable/10.1525/j.ctt19b9jgt.11" target="_blank">"Prosecuting Female-Female Sex in Bourbon Quito,"</a> in *Sexuality and the Unnatural in Colonial Latin America*, Zeb Tortorici, ed., (Univ of California Press, 2016), 120-140. 
 
 
 
@@ -78,7 +79,8 @@ title: Weekly Schedule
 
 **Readings:**
 - Catalina de Erauso, *Lieutenant Nun: Memoir of a Basque Transvestite in the New World*, trans by Michele Septo and Gabriel Septo, (Boston: Beacon Press, 1996).  Entire
-- Chad T. Black, <a href="https://www.jstor.org/stable/10.1525/j.ctt19b9jgt.11" target="_blank">"Prosecuting Female-Female Sex in Bourbon Quito,"</a> in *Sexuality and the Unnatural in Colonial Latin America*, Zeb Tortorici, ed., (Univ of California Press, 2016), 120-140. 
+- <a href="https://proctorf.github.io/HIST243/media/Lt_Nun.pdf" target="_blank">Text</a> and <a href="https://proctorf.github.io/HIST243/media/Lt_Nun_Intro_and_Foreword.pdf" target="_blank">Introduction and Foreword</a>
+
 
 
 ### Tues, Feb 17 - 
@@ -91,7 +93,7 @@ In-Class Workday on Project 1
 
 - Sarah C. Chambers, <a href="https://doi-org.denison.idm.oclc.org/10.2307/j.ctv12101v5.5">"Private Crimes, Public Order: Honor, Gender, and the Law in Early Republican Peru," in *Honor, Status, and Law in Modern Latin America,* Sueann Caulfield and Lara Putnam, eds., (Duke University Press, 2005): 27-49.
 
-Rebecca Earle, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_walterdegruyter_books_10_1515_9780822380238_007">"Race and the Anxious Republic: Revolutionary Columbia, 1810-1830,"</a> *Hidden Histories of Gender and the State in Latin America* Elizabeth Dore and Maxine Molyneux, eds. (,2020): 127-146.
+- Rebecca Earle, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_walterdegruyter_books_10_1515_9780822380238_007">"Race and the Anxious Republic: Revolutionary Columbia, 1810-1830,"</a> *Hidden Histories of Gender and the State in Latin America* Elizabeth Dore and Maxine Molyneux, eds. (,2020): 127-146.
 
 
 **Assignments:**
@@ -108,7 +110,7 @@ Rebecca Earle, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/p
 ### Thurs, Feb 26 - Sex, Crime, and the State (RXN)
 
 **Readings:**
-- Pablo Piccato, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_762028254" target="_blank" rel="noopener noreferrer">"'El Chalequero' or the Mexican Jack the Ripper: The Meanings of Sexual Violence in Turn-of-the-Century Mexico City,"</a> *Hispanic American Historical Review* 81:3-4 (2001): 623-51.
+- Pablo Piccato, <a href="https://doi-org.denison.idm.oclc.org/10.1215/00182168-81-3-4-623" target="_blank" rel="noopener noreferrer">"'El Chalequero' or the Mexican Jack the Ripper: The Meanings of Sexual Violence in Turn-of-the-Century Mexico City,"</a> *Hispanic American Historical Review* 81:3-4 (2001): 623-51.
 - Kristin Ruggiero, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_unpaywall_primary_10_1215_00182168_72_3_353" target="_blank" rel="noopener noreferrer">"Honor, Maternity, and the Disciplining of Women: Infanticide in Late Nineteenth-Century Buenos Aires,"</a> *The Hispanic American Historical Review*, 72:3 (1992); 353-73.
 
 ## Week 7
@@ -116,15 +118,16 @@ Rebecca Earle, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/p
 ### Tues, Mar 3 - Sexuality and "Modern" Science (RXN)
 
 **Readings:**
-- Alejandra Bronfman, <a href="" target="_blank" rel="noopener noreferrer">"Mismeasured Women: Gender and Social Science on the Eve of Female Suffrage in Cuba,"</a> in *Gender, Sexuality, and Power*, 71-86.
+- Alejandra Bronfman, <a href="https://drive.google.com/file/d/1z14QUOg7IfyZ5njWxmsmYhZu22QdDUwi/view?usp=sharing" target="_blank" rel="noopener noreferrer">"Mismeasured Women: Gender and Social Science on the Eve of Female Suffrage in Cuba,"</a> in *Gender, Sexuality, and Power*, 71-86.
+- Jorge Salessi, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_webofscience_primary_A1994MQ76400001" target="_blank" rel="noopener noreferrer">"The Argentine Dissemnination of Homosexuality,"</a> *Journal of the History of Sexuality* 4:3 (1994): 337-368.
+- Sueann Caulfield <a href="https://www.jstor.org/stable/j.ctt9qgbkg.8" target="_blank" rel="noopener noreferrer">"The Birth of *Mangue*: Race, Nation, and the Politics of Prostitution in Rio de Janeiro, 1850-1942,"</a> in *Sex and Sexuality in Latin America: An Interdisciplinary Reader*, Daniel Balderston and Donna J. Guy, eds. (NYU Press, 1997): 86-100.
 
-Additional Reading TBD
 
 ### Thurs, Mar 5 - Sex and Popular Culture <!--- Michael Matthew's book "Sex and Love in Porfirian Mexico includes interesing looking chapters on plebian sexual behavior, it would be great to fit that into--->
 
 - Pablo Ben, <a href="https://www-jstor-org.denison.idm.oclc.org/stable/30114192" target="_blank" rel="noopener noreferrer">"Plebian Masculinity and Sexual Comedy in Buenos Aires, 1880-1930"</a> *Journal of the History of Sexuality* 16:3 (2007): 436-458.
-- Eduardo Archetti, <a href="" target="_blank" rel="noopener noreferrer">"Masculinity, Primitivism, and Power: Gaucho, Tango, and the Shaping of Argentine National Identity,"</a> in *Gender, Sexuality, and Power*, 212-29.
-James Green, "The Homosexual Appropriation of Rio's Carnival" in *Beyond Carnival: Male Homosexuality in Twentieth-Century Brazil* (Univ of Chicago Press, 1999): 199-241.
+- ~~Eduardo Archetti, <a href="https://drive.google.com/file/d/1FEmy1RgUvqPfyxsi7j-Y89GfhCjAFokh/view?usp=sharing" target="_blank" rel="noopener noreferrer">"Masculinity, Primitivism, and Power: Gaucho, Tango, and the Shaping of Argentine National Identity,"</a> in *Gender, Sexuality, and Power*, 212-29.~~
+- James Green, <a href="https://drive.google.com/file/d/1fI3vVNFm0EP2xiEdjOArv80APg39iEPg/view?usp=sharing" target="_blank" rel="noopener noreferrer">"The Homosexual Appropriation of Rio's Carnival"</a> in *Beyond Carnival: Male Homosexuality in Twentieth-Century Brazil* (Univ of Chicago Press, 1999): 199-241.
 20th century Revs (RXN)
 
 
