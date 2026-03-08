@@ -133,8 +133,12 @@ In-Class Workday on Project 1
 
 ## Week 8
 
-### Tues, Mar 10 - Senhora
-Jose de Alencar, *Senhora* Entire
+### Tues, Mar 10 - Film 
+Madame Satã (Brazil) (2002)
+
+[Extra Readings](extra-reading.md) for final reflection paper and as additional sources for the Unit Project.
+
+**You are not responsible for reaing *Senhora*, but are welcome to if you like. The second half is pretty awesome for our class**
 
 ### Thurs, - Mar 12 - In-Class Workday
 

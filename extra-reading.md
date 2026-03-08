@@ -12,7 +12,7 @@ James N. Green, *Beyond Carnival: Male Homesexuality in Twentieth-Century Brazil
 
 **Susan K. Besse**, "[Crimes of passion: the campaign against wife-killing in Brazil, 1910-1940](http://www.jstor.org/stable/3787542)", *Journal of Social History* 22:4, (Summer 1989); 653-666.
 
-**Annotation:** Argues that middle-class reformers' desire to impose modern, hygienic standards of sex and family life and to legitimate hierarchical nuclear family lay behind campaign to punish **wife**-killers. Analysis is qualitative rather than quantitative.
+**Annotation:** Argues that middle-class reformers' desire to impose modern, hygienic standards of sex and family life and to legitimate hierarchical nuclear family lay behind campaign to punish **wife**-killers. Analysis is qualitative rather than quantitative. [Matthews, below, has a chapter on wife-killing, I believe]
 
 ---
 
