@@ -136,7 +136,7 @@ In-Class Workday on Project 1
 ### Tues, Mar 10 - Film 
 Madame Satã (Brazil) (2002)
 
-[Extra Readings](extra-reading.md) for final reflection paper and as additional sources for the Unit Project.
+[Extra Readings](extra-reading.md) for final reflection paper and as additional sources for the Unit Project.  If you plan to write your final reflection paper on the novel, you can use one of these readings instead.
 
 **You are not responsible for reaing *Senhora*, but are welcome to if you like. The second half is pretty awesome for our class**
 
