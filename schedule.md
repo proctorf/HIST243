@@ -153,7 +153,7 @@ Madame Satã (Brazil) (2002)
 **Readings:**
 - Katherine Bliss, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_818644428" target="_blank" rel="noopener noreferrer">"The Science of Redemption: Syphilis, Sexual Promiscuity, and Reformism in Revolutionary Mexico City,"</a> *HAHR* 79:1 (Feb. 1999): 1-40.
 - Robert Buffington, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_60516424" target="_blank" rel="noopener noreferrer">"La 'Dancing" Mexicana: Danzón and the Transformation of Intimacy in Post-Revolutionary Mexico City,"</a> *Journal of Latin American Cultural Studies*, 14:1 (2005); 87-108.
-- Katherine Bliss and Ann S. Blum, <a href="" target="_blank" rel="noopener noreferrer">"Dangerous Driving: Adolescence, Sex, and the Gendered Experience of Public Space in Early-Twentieth-Century Mexico City,"</a> in *Gender, Sexuality, and Power*, 163-86.
+- Katherine Bliss and Ann S. Blum, <a href="https://drive.google.com/file/d/1ItejKgsm4G97vUWiV5SndwUl2VcQC9V6/view?usp=sharing" target="_blank" rel="noopener noreferrer">"Dangerous Driving: Adolescence, Sex, and the Gendered Experience of Public Space in Early-Twentieth-Century Mexico City,"</a> in *Gender, Sexuality, and Power*, 163-86.
 
 ### DUE - Project #2 - WEDNESDAY March 25 @ 11:59pm
 
