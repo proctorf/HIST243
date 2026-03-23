@@ -155,7 +155,7 @@ Madame Satã (Brazil) (2002)
 - Robert Buffington, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_60516424" target="_blank" rel="noopener noreferrer">"La 'Dancing" Mexicana: Danzón and the Transformation of Intimacy in Post-Revolutionary Mexico City,"</a> *Journal of Latin American Cultural Studies*, 14:1 (2005); 87-108.
 - Katherine Bliss and Ann S. Blum, <a href="https://drive.google.com/file/d/1ItejKgsm4G97vUWiV5SndwUl2VcQC9V6/view?usp=sharing" target="_blank" rel="noopener noreferrer">"Dangerous Driving: Adolescence, Sex, and the Gendered Experience of Public Space in Early-Twentieth-Century Mexico City,"</a> in *Gender, Sexuality, and Power*, 163-86.
 
-### DUE - Project #2 - WEDNESDAY March 25 @ 11:59pm
+
 
 ### Thurs, Mar 26 - The Cuban Revolution (RXN)
 
@@ -165,6 +165,8 @@ Madame Satã (Brazil) (2002)
 - Marvin Leiner, <a href="https://drive.google.com/file/d/1PM9fmJ1kfGmsNOqHxhfiQPuYUKs99nlE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"AIDS: Cuba's Efforts to Contain,"</a> in *Sexual Politics in Cuba: Machismo, Homosexuality, and AIDS* (Boulder: Westview Press, 1994): 117-58.
 
 ## Week 10
+
+### DUE - Project #2 - MONDAY MARCH 30 @ 11:59pm
 
 ### Tues, Mar 31 - Sex, the Cold War and Authoritarianism (RXN)
 
