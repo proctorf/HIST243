@@ -162,13 +162,21 @@ Madame Satã (Brazil) (2002)
 **Readings:**
 - Rachel Hynson, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_1758939318" target="_blank" rel="noopener noreferrer">"'Count, Capture, and Reeducate': The Campaign to Rehabilitate Cuba's Female Sex Workers, 1959-1965,"</a> *Journal of the History of Sexuality* 24:1 (2015): 125-153.
 - Lillian Guerra, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_1035976907" target="_blank" rel="noopener noreferrer">"Gender Policing, Homosexuality and the New Patriarchy of the Cuban Revolution, 1965-1970,"</a> *Social History* 35:3 (2010): 268-89.
-- Marvin Leiner, <a href="https://drive.google.com/file/d/1PM9fmJ1kfGmsNOqHxhfiQPuYUKs99nlE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"AIDS: Cuba's Efforts to Contain,"</a> in *Sexual Politics in Cuba: Machismo, Homosexuality, and AIDS* (Boulder: Westview Press, 1994): 117-58.
+
 
 ## Week 10
 
 ### DUE - Project #2 - MONDAY MARCH 30 @ 11:59pm
 
-### Tues, Mar 31 - Sex, the Cold War and Authoritarianism (RXN)
+### Tues, Mar 31 - Class Discussion of Remaining Assignments 
+
+Primary Questions - We have the following three assignments left for the semester - Unit III Project, Where are we now? Presentations, and Final Research Project *OR* Community Engagement Projects (CEP).  Do we want to alter that in any way (And no, the answer cannot be zero assignments). How do we make the most of the learning opportunities that we have left together?
+
+##Communinity Engagement Project Materials
+-  <a href="https://docs.google.com/document/d/10EIHRHHcz02ksYz0_FODBpdPQbRjw3d0_MenajVnpRk/edit?usp=sharing" target="_blank">CEP Instructions</a>
+
+-  <a href="https://docs.google.com/document/d/1UC8k5Z-oeZHFGTO471wmnEjOreiW1Tg3ydC1D9Kp86g/edit?usp=sharing" target="_blank">CEP Memo Instructions</a>
+
 
 - Valerua Manzano, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_journals_222677863" target="_blank">"Sexualizing Youth: Morality Campaigns and Representations of Youth in Early 1960s Buenos Aires,"</a> *Journal of the History of Sexuality* 14:4 (2005): 433-61.
 - Benjamin Cowan, *Securing Sex: Morality and Repression in the Making of Cold War Brazil* (UNC Press, 2016): <a href="" target="_blank" rel="noopener noreferrer">CHAPTERS TBD</a><!--- https://www-jstor-org.denison.idm.oclc.org/stable/10.5149/9781469627519 cowan--->
@@ -179,26 +187,37 @@ Madame Satã (Brazil) (2002)
 - Decision Date: CEP or Final Research Paper
 
 
-### Thurs, Apr 2 - 20th Century Queer Identities
+### Thurs, Apr 2 - Sex, the Cold War and Authoritarianism (RXN)
 
-**Readings**
-TBD
-- Millie Thayer, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_839091772" target="_blank" rel="noopener noreferrer">"Identity, Revolution, and Democracy: Lesbian Movements in Central America,"</a> *Social Problems* 44:3 (Aug 1997): 386-407.
+- Valerua Manzano, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_journals_222677863" target="_blank">"Sexualizing Youth: Morality Campaigns and Representations of Youth in Early 1960s Buenos Aires,"</a> *Journal of the History of Sexuality* 14:4 (2005): 433-61.
+- Benjamin Cowan, *Securing Sex: Morality and Repression in the Making of Cold War Brazil* (UNC Press, 2016): <a href="" target="_blank" rel="noopener noreferrer">CHAPTERS TBD</a><!--- https://www-jstor-org.denison.idm.oclc.org/stable/10.5149/9781469627519 cowan--->
+- Joanne Hershfield, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_60240834" target="_blank" rel="noopener noreferrer">"More than Pawns: Right Wing Women in Chile"</a> *Journal of Women's History* 16:3 (2004); 138-51.
+- Ximena Bunster, <a href="" target="_blank" rel="noopener noreferrer">"Surviving Beyond Fear: Women and Torture in Latin America,"</a> in *Violence and Women*, Miranda Davis, comp. (Altantic Heights, NJ: Zed Books, 1994), 156-76.
+
+**Assignments:**
+- Decision Date: CEP or Final Research Paper
 
 
 ## Week 11
 
-### Tues, Apr 7 - Reproductive Rights
+### Tues, Apr 7 -  20th Century Queer Identities
 
-**Readings:**
-- Lois Wessel, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_839091772" target="_blank" rel="noopener noreferrer">"Reproductive Rights in Nicarauga"</a> *Feminist Studies* 17:3 (1991): 536-549.
+**Readings**
+
+- Héctor Carrillo, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_walterdegruyter_books_10_1515_9780822384540_016" target="_blank" rel="noopener noreferrer">"Neither Machos nor Maricones: Masculinity and Emerging Male Homosexual Identities in Mexico,"</a> in *Changing Men and Masculinities in Latin America*, Mathew Guttman, ed., (Durham: Duke Univ Press, 2003), 351-69.
+- Millie Thayer, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_839091772" target="_blank" rel="noopener noreferrer">"Identity, Revolution, and Democracy: Lesbian Movements in Central America,"</a> *Social Problems* 44:3 (Aug 1997): 386-407.
+- Marvin Leiner, <a href="https://drive.google.com/file/d/1PM9fmJ1kfGmsNOqHxhfiQPuYUKs99nlE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"AIDS: Cuba's Efforts to Contain,"</a> in *Sexual Politics in Cuba: Machismo, Homosexuality, and AIDS* (Boulder: Westview Press, 1994): 117-58.
+
+
 Readings TBD
 
-### Thurs, Apr 9 - Modern Mexican Sexualities (RXN)
+### Thurs, Apr 9 - Reproductive Rights (RXN)
 
 **Readings:**
-- Ernesto R. Acevedo-Muñoz, <a href="https://drive.google.com/file/d/1MKhLNIIc5oRAhbGILva2trEcz1k7XeSi/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"Sex, Class, and Mexico in Alfonso Cuarón's Y tu mama también,"</a> *Film and History*, 34:1 (2004), 39-48
-- Héctor Carrillo, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_walterdegruyter_books_10_1515_9780822384540_016" target="_blank" rel="noopener noreferrer">"Neither Machos nor Maricones: Masculinity and Emerging Male Homosexual Identities in Mexico,"</a> in *Changing Men and Masculinities in Latin America*, Mathew Guttman, ed., (Durham: Duke Univ Press, 2003), 351-69.
+TBD
+
+- Lois Wessel, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_839091772" target="_blank" rel="noopener noreferrer">"Reproductive Rights in Nicarauga"</a> *Feminist Studies* 17:3 (1991): 536-549.
+
 - Gabriela Soto Lavega, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_925742170" target="_blank" rel="noopener noreferrer">" 'Let's Become Fewer: Soap Operas, the Pill, and Population Campains, 1976-1986,"</a> *Sexuality Research and Social Policy Journal* 4:3 (2007): 19-33
 
 ## Week 12
