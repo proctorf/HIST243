@@ -178,16 +178,7 @@ Primary Questions - We have the following three assignments left for the semeste
 -  <a href="https://docs.google.com/document/d/1UC8k5Z-oeZHFGTO471wmnEjOreiW1Tg3ydC1D9Kp86g/edit?usp=sharing" target="_blank">CEP Memo Instructions</a>
 
 
-- Valerua Manzano, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_journals_222677863" target="_blank">"Sexualizing Youth: Morality Campaigns and Representations of Youth in Early 1960s Buenos Aires,"</a> *Journal of the History of Sexuality* 14:4 (2005): 433-61.
-- Benjamin Cowan, *Securing Sex: Morality and Repression in the Making of Cold War Brazil* (UNC Press, 2016): <a href="" target="_blank" rel="noopener noreferrer">CHAPTERS TBD</a><!--- https://www-jstor-org.denison.idm.oclc.org/stable/10.5149/9781469627519 cowan--->
-- Joanne Hershfield, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_60240834" target="_blank" rel="noopener noreferrer">"More than Pawns: Right Wing Women in Chile"</a> *Journal of Women's History* 16:3 (2004); 138-51.
-- Ximena Bunster, <a href="" target="_blank" rel="noopener noreferrer">"Surviving Beyond Fear: Women and Torture in Latin America,"</a> in *Violence and Women*, Miranda Davis, comp. (Altantic Heights, NJ: Zed Books, 1994), 156-76.
-
-**Assignments:**
-- Decision Date: CEP or Final Research Paper
-
-
-### Thurs, Apr 2 - Sex, the Cold War and Authoritarianism (RXN)
+### Thurs, Apr 2 - Sex, the Cold War, and Authoritarianism (RXN)
 
 - Valerua Manzano, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_journals_222677863" target="_blank">"Sexualizing Youth: Morality Campaigns and Representations of Youth in Early 1960s Buenos Aires,"</a> *Journal of the History of Sexuality* 14:4 (2005): 433-61.
 - Benjamin Cowan, *Securing Sex: Morality and Repression in the Making of Cold War Brazil* (UNC Press, 2016): <a href="" target="_blank" rel="noopener noreferrer">CHAPTERS TBD</a><!--- https://www-jstor-org.denison.idm.oclc.org/stable/10.5149/9781469627519 cowan--->
