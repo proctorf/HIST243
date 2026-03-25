@@ -172,7 +172,7 @@ Madame Satã (Brazil) (2002)
 
 Primary Questions - We have the following three assignments left for the semester - Unit III Project, Where are we now? Presentations, and Final Research Project *OR* Community Engagement Projects (CEP).  Do we want to alter that in any way (And no, the answer cannot be zero assignments). How do we make the most of the learning opportunities that we have left together?
 
-##Communinity Engagement Project Materials
+## Communinity Engagement Project Materials
 -  <a href="https://docs.google.com/document/d/10EIHRHHcz02ksYz0_FODBpdPQbRjw3d0_MenajVnpRk/edit?usp=sharing" target="_blank">CEP Instructions</a>
 
 -  <a href="https://docs.google.com/document/d/1UC8k5Z-oeZHFGTO471wmnEjOreiW1Tg3ydC1D9Kp86g/edit?usp=sharing" target="_blank">CEP Memo Instructions</a>
