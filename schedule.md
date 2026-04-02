@@ -182,6 +182,7 @@ Primary Questions - We have the following three assignments left for the semeste
 
 - Valerua Manzano, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_journals_222677863" target="_blank">"Sexualizing Youth: Morality Campaigns and Representations of Youth in Early 1960s Buenos Aires,"</a> *Journal of the History of Sexuality* 14:4 (2005): 433-61.
 - Benjamin Cowan, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/1a8hj9a/cdi_proquest_journals_1030116948" target="_blank" rel="noopener noreferrer">"'WHy Hasn't This Teacher Been Shot?' Moral-Sexual Panic, the Repressive Right, and Brazil's National Security State,"</a> *Hispanic American Historical Review*, 92:3 (2012): 403-436.<!-- NOT GREAT, maybe his article on "Sex adn the Security State" would be better  https://doi.org/10.1353/sex.2007.0073-->
+- <!--Or, use Vicgorian Langland, "Birth Control Pills and Molotov Cocktails: Reading Sex and Revolution in 1968 Brazil," in *In From The COld: Latin America's New Encounter with the Cold War* https://www.jstor.org/stable/j.ctv125jfzb.13 -->
 - Joanne Hershfield, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_60240834" target="_blank" rel="noopener noreferrer">"More than Pawns: Right Wing Women in Chile"</a> *Journal of Women's History* 16:3 (2004); 138-51.
 
 
