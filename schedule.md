@@ -181,18 +181,19 @@ Primary Questions - We have the following three assignments left for the semeste
 ### Thurs, Apr 2 - Sex, the Cold War, and Authoritarianism (RXN)
 
 - Valerua Manzano, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_journals_222677863" target="_blank">"Sexualizing Youth: Morality Campaigns and Representations of Youth in Early 1960s Buenos Aires,"</a> *Journal of the History of Sexuality* 14:4 (2005): 433-61.
-- Benjamin Cowan, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/1a8hj9a/cdi_proquest_journals_1030116948" target="_blank" rel="noopener noreferrer">"'WHy Hasn't This Teacher Been Shot?' Moral-Sexual Panic, the Repressive Right, and Brazil's National Security State,"</a> *Hispanic American Historical Review*, 92:3 (2012): 403-436.
+- Benjamin Cowan, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/1a8hj9a/cdi_proquest_journals_1030116948" target="_blank" rel="noopener noreferrer">"'WHy Hasn't This Teacher Been Shot?' Moral-Sexual Panic, the Repressive Right, and Brazil's National Security State,"</a> *Hispanic American Historical Review*, 92:3 (2012): 403-436.<!-- NOT GREAT, maybe his article on "Sex adn the Security State" would be better  https://doi.org/10.1353/sex.2007.0073-->
 - Joanne Hershfield, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_60240834" target="_blank" rel="noopener noreferrer">"More than Pawns: Right Wing Women in Chile"</a> *Journal of Women's History* 16:3 (2004); 138-51.
 
 
-## Week 11
+## Week 11 
 
 ### Tues, Apr 7 -  20th Century Queer Identities
 
 **Readings**
 
-- Héctor Carrillo, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_walterdegruyter_books_10_1515_9780822384540_016" target="_blank" rel="noopener noreferrer">"Neither Machos nor Maricones: Masculinity and Emerging Male Homosexual Identities in Mexico,"</a> in *Changing Men and Masculinities in Latin America*, Mathew Guttman, ed., (Durham: Duke Univ Press, 2003), 351-69.
 - Millie Thayer, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_839091772" target="_blank" rel="noopener noreferrer">"Identity, Revolution, and Democracy: Lesbian Movements in Central America,"</a> *Social Problems* 44:3 (Aug 1997): 386-407.
+- James N Green, <a href="https://doi.org/10.2307/j.ctt5vkfk6.9" target="_blank" rel="noopener noreferrer">"More Love and More Desire: The Builiding of a Brazilian Movement</a>," in *The Politics of Sexuality in Latin America: A Reader on Lesbian, Gay, Bisexual, and Transgender Rights*, Javier Corrales and Mario Pecheny, eds., (Univ of Pittsburg Press, 2010): 69-85.
+- Héctor Carrillo, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_walterdegruyter_books_10_1515_9780822384540_016" target="_blank" rel="noopener noreferrer">"Neither Machos nor Maricones: Masculinity and Emerging Male Homosexual Identities in Mexico,"</a> in *Changing Men and Masculinities in Latin America*, Mathew Guttman, ed., (Durham: Duke Univ Press, 2003), 351-69.
 - Marvin Leiner, <a href="https://drive.google.com/file/d/1PM9fmJ1kfGmsNOqHxhfiQPuYUKs99nlE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"AIDS: Cuba's Efforts to Contain,"</a> in *Sexual Politics in Cuba: Machismo, Homosexuality, and AIDS* (Boulder: Westview Press, 1994): 117-58.
 
 
