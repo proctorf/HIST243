@@ -198,8 +198,6 @@ Primary Questions - We have the following three assignments left for the semeste
 - Marvin Leiner, <a href="https://drive.google.com/file/d/1PM9fmJ1kfGmsNOqHxhfiQPuYUKs99nlE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"AIDS: Cuba's Efforts to Contain,"</a> in *Sexual Politics in Cuba: Machismo, Homosexuality, and AIDS* (Boulder: Westview Press, 1994): 117-58.
 
 
-Readings TBD
-
 ### Thurs, Apr 9 - Reproductive Rights (RXN)
 
 **Readings:**
