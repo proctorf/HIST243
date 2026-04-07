@@ -198,14 +198,18 @@ Primary Questions - We have the following three assignments left for the semeste
 - Marvin Leiner, <a href="https://drive.google.com/file/d/1PM9fmJ1kfGmsNOqHxhfiQPuYUKs99nlE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"AIDS: Cuba's Efforts to Contain,"</a> in *Sexual Politics in Cuba: Machismo, Homosexuality, and AIDS* (Boulder: Westview Press, 1994): 117-58.
 
 
-### Thurs, Apr 9 - Reproductive Rights (RXN)
+### Thurs, Apr 9 - Reproductive Rights (RXN) 
+<!-- You have missed a pretty big scholarship on reproductive rights - Nora Jaffary has two books (although the first seems to cover alot of the territory inlcuded above with monstrous births and infanticide, but a new book on abortion, and a forthcoming book on colonial sexuality.  Elizabeth O'Brien work has lots of good references, Natalie Kimball has a book on Reproductive Rigths in Bolivia, but I'm not seeing articles.-->
 
 **Readings:**
-TBD
+
+- Elizabeth O'Brien, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/1a8hj9a/cdi_webofscience_primary_000584784900001CitationCount" target="_blank" rel="noopener noreferrer">"The Many Meanings of *Aborto*: Pregnancy Termination and the Instability of a Medical Category Over Time</a>," *Women's History Review* 30:6 (2021): 952-70.
 
 - Lois Wessel, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_839091772" target="_blank" rel="noopener noreferrer">"Reproductive Rights in Nicarauga"</a> *Feminist Studies* 17:3 (1991): 536-549.
 
 - Gabriela Soto Lavega, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_925742170" target="_blank" rel="noopener noreferrer">" 'Let's Become Fewer: Soap Operas, the Pill, and Population Campains, 1976-1986,"</a> *Sexuality Research and Social Policy Journal* 4:3 (2007): 19-33
+
+- Jennifer Nelson, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/1a8hj9a/cdi_webofscience_primary_000815255600008CitationCount" target="_blank" rel="noopener noreferrer">"Feminism, Human Rights, and Abortion Debates in Mexico</a>," *Journal of Women's History* 34:2 (2022): 119-40.
 
 ## Week 12
 
