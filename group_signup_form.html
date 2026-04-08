@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Group sign-up</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      background: #f5f4f0;
+      color: #1a1a18;
+      padding: 2rem 1rem;
+    }
+
+    h1 {
+      font-size: 22px;
+      font-weight: 500;
+      margin-bottom: 0.25rem;
+    }
+
+    .subtitle {
+      font-size: 14px;
+      color: #5f5e5a;
+      margin-bottom: 1.5rem;
+    }
+
+    .form-wrap {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .notice {
+      background: #e6f1fb;
+      border: 0.5px solid #85b7eb;
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-size: 13px;
+      color: #0c447c;
+      margin-bottom: 1.25rem;
+    }
+
+    .section-card {
+      background: #fff;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 12px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .section-label {
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #888780;
+      margin-bottom: 1rem;
+    }
+
+    .field {
+      margin-bottom: 1rem;
+    }
+
+    .field:last-child {
+      margin-bottom: 0;
+    }
+
+    .field label {
+      display: block;
+      font-size: 13px;
+      font-weight: 500;
+      color: #5f5e5a;
+      margin-bottom: 6px;
+    }
+
+    .field .hint {
+      font-size: 12px;
+      color: #888780;
+      margin-top: 6px;
+    }
+
+    input[type="text"],
+    input[type="email"] {
+      width: 100%;
+      padding: 8px 12px;
+      font-size: 14px;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 8px;
+      background: #fff;
+      color: #1a1a18;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    input[type="text"]:focus,
+    input[type="email"]:focus {
+      border-color: #7f77dd;
+      box-shadow: 0 0 0 3px rgba(127, 119, 221, 0.12);
+    }
+
+    .radio-group {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-top: 4px;
+    }
+
+    .radio-option {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 14px;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 8px;
+      cursor: pointer;
+      background: #fff;
+      transition: border-color 0.15s, background 0.15s;
+    }
+
+    .radio-option:hover {
+      border-color: #b4b2a9;
+      background: #f5f4f0;
+    }
+
+    .radio-option input[type="radio"] {
+      margin-top: 2px;
+      accent-color: #534ab7;
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+    }
+
+    .radio-option input[type="radio"]:checked + .radio-text span {
+      color: #3c3489;
+      font-weight: 500;
+    }
+
+    .radio-text span {
+      display: block;
+      font-size: 14px;
+      color: #1a1a18;
+    }
+
+    .radio-text small {
+      display: block;
+      font-size: 12px;
+      color: #888780;
+      margin-top: 2px;
+    }
+
+    .optional-badge {
+      font-size: 11px;
+      font-weight: 400;
+      color: #888780;
+      background: #f1efe8;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 4px;
+      padding: 1px 6px;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+
+    .submit-btn {
+      width: 100%;
+      padding: 12px;
+      font-size: 15px;
+      font-weight: 500;
+      background: #534ab7;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      margin-top: 0.5rem;
+      transition: background 0.15s;
+    }
+
+    .submit-btn:hover {
+      background: #3c3489;
+    }
+
+    .submit-btn:disabled {
+      background: #b4b2a9;
+      cursor: default;
+    }
+
+    .success {
+      display: none;
+      background: #eaf3de;
+      border: 0.5px solid #97c459;
+      border-radius: 8px;
+      padding: 14px 18px;
+      font-size: 14px;
+      color: #27500a;
+      margin-top: 1rem;
+      text-align: center;
+    }
+
+    .ranked-group {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-top: 4px;
+    }
+
+    .ranked-option {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 14px;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 8px;
+      cursor: pointer;
+      background: #fff;
+      transition: border-color 0.15s, background 0.15s;
+      user-select: none;
+    }
+
+    .ranked-option:hover {
+      border-color: #b4b2a9;
+      background: #f5f4f0;
+    }
+
+    .ranked-option.ranked {
+      border-color: #7f77dd;
+      background: #f4f3fc;
+    }
+
+    .rank-badge {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 1.5px solid #d3d1c7;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      font-weight: 600;
+      color: #888780;
+      flex-shrink: 0;
+      background: #fff;
+      transition: all 0.15s;
+    }
+
+    .ranked-option.ranked .rank-badge {
+      border-color: #534ab7;
+      background: #534ab7;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="form-wrap">
+    <h1>Group sign-up</h1>
+    <p class="subtitle">Latin America — Reproductive Rights &amp; LGBTQ+ Rights</p>
+
+    <div class="notice">
+      Only one person per group needs to submit this form.<br>
+      If you do not have a partner identified, please fill out the form and I will assign you to a group working on a topic of interest.
+    </div>
+
+    <div class="section-card">
+      <div class="section-label">Your information</div>
+      <div class="field">
+        <label for="your-name">Your full name</label>
+        <input type="text" id="your-name" placeholder="e.g. María González" autocomplete="name">
+      </div>
+      <div class="field">
+        <label for="your-email">Your email</label>
+        <input type="email" id="your-email" placeholder="e.g. mgonzalez@university.edu" autocomplete="email">
+      </div>
+    </div>
+
+    <div class="section-card">
+      <div class="section-label">Group members</div>
+      <div class="field">
+        <label for="partner-name">Partner's full name</label>
+        <input type="text" id="partner-name" placeholder="e.g. Carlos Reyes">
+      </div>
+      <div class="field">
+        <label for="third-name">Third member's full name <span class="optional-badge">optional</span></label>
+        <input type="text" id="third-name" placeholder="Only if your group has three members">
+      </div>
+    </div>
+
+    <div class="section-card">
+      <div class="section-label">Country or region</div>
+      <div class="field">
+        <label>Rank your preferences</label>
+        <div class="ranked-group" id="country-ranked">
+          <div class="ranked-option" data-value="mexico" data-rank="">
+            <div class="rank-badge"></div>
+            <div class="radio-text"><span>Mexico</span></div>
+          </div>
+          <div class="ranked-option" data-value="central-america" data-rank="">
+            <div class="rank-badge"></div>
+            <div class="radio-text">
+              <span>Central America</span>
+              <small>Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Panama</small>
+            </div>
+          </div>
+          <div class="ranked-option" data-value="caribbean" data-rank="">
+            <div class="rank-badge"></div>
+            <div class="radio-text">
+              <span>The Caribbean</span>
+              <small>Includes Dominican Republic, Puerto Rico, and others (excluding Cuba) — you are not expected to cover every country; focus on one or a few.</small>
+            </div>
+          </div>
+          <div class="ranked-option" data-value="cuba" data-rank="">
+            <div class="rank-badge"></div>
+            <div class="radio-text"><span>Cuba</span></div>
+          </div>
+          <div class="ranked-option" data-value="andean" data-rank="">
+            <div class="rank-badge"></div>
+            <div class="radio-text">
+              <span>Andean countries</span>
+              <small>Includes Colombia, Venezuela, Ecuador, Peru, and Bolivia — you are not expected to cover every country; focus on one or a few.</small>
+            </div>
+          </div>
+          <div class="ranked-option" data-value="brazil" data-rank="">
+            <div class="rank-badge"></div>
+            <div class="radio-text"><span>Brazil</span></div>
+          </div>
+          <div class="ranked-option" data-value="argentina" data-rank="">
+            <div class="rank-badge"></div>
+            <div class="radio-text"><span>Argentina</span></div>
+          </div>
+          <div class="ranked-option" data-value="chile-uruguay" data-rank="">
+            <div class="rank-badge"></div>
+            <div class="radio-text">
+              <span>Southern Cone</span>
+              <small>Includes Chile, Uruguay, and Paraguay — you are not expected to cover every country; focus on one or a few.</small>
+            </div>
+          </div>
+        </div>
+        <p class="hint">Click options to rank them in order of preference. Click a ranked option to remove its rank. Your instructor will use your rankings if there are conflicts.</p>
+      </div>
+    </div>
+
+    <div class="section-card">
+      <div class="section-label">Topic</div>
+      <div class="field">
+        <label>Rank your preferences</label>
+        <div class="ranked-group" id="topic-ranked">
+          <div class="ranked-option" data-value="reproductive" data-rank="">
+            <div class="rank-badge"></div>
+            <div class="radio-text"><span>Reproductive rights</span></div>
+          </div>
+          <div class="ranked-option" data-value="lgbtq" data-rank="">
+            <div class="rank-badge"></div>
+            <div class="radio-text"><span>LGBTQ+ rights</span></div>
+          </div>
+        </div>
+        <p class="hint">Click to rank both options in order of preference.</p>
+      </div>
+    </div>
+
+    <button class="submit-btn" onclick="handleSubmit()">Submit sign-up</button>
+    <div class="success" id="success-msg">
+      Your group has been registered. Your instructor will confirm your country selection.
+    </div>
+  </div>
+
+  <script>
+    function initRankedChoices(containerId) {
+      const container = document.getElementById(containerId);
+      if (!container) return;
+      const options = container.querySelectorAll('.ranked-option');
+      options.forEach(option => {
+        option.addEventListener('click', () => {
+          const currentRank = parseInt(option.dataset.rank) || 0;
+          if (currentRank) {
+            // Remove this rank and shift higher ranks down
+            options.forEach(o => {
+              const r = parseInt(o.dataset.rank) || 0;
+              if (r === currentRank) {
+                o.dataset.rank = '';
+                o.querySelector('.rank-badge').textContent = '';
+                o.classList.remove('ranked');
+              } else if (r > currentRank) {
+                o.dataset.rank = r - 1;
+                o.querySelector('.rank-badge').textContent = r - 1;
+              }
+            });
+          } else {
+            // Assign the next available rank
+            const existing = Array.from(options).map(o => parseInt(o.dataset.rank) || 0);
+            const nextRank = Math.max(0, ...existing) + 1;
+            option.dataset.rank = nextRank;
+            option.querySelector('.rank-badge').textContent = nextRank;
+            option.classList.add('ranked');
+          }
+        });
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      initRankedChoices('country-ranked');
+      initRankedChoices('topic-ranked');
+    });
+
+    function handleSubmit() {
+      const name = document.getElementById('your-name').value.trim();
+      const email = document.getElementById('your-email').value.trim();
+      const partner = document.getElementById('partner-name').value.trim();
+      const countryFirst = document.querySelector('#country-ranked .ranked-option[data-rank="1"]');
+      const topicFirst = document.querySelector('#topic-ranked .ranked-option[data-rank="1"]');
+      if (!name || !email || !partner || !countryFirst || !topicFirst) {
+        alert('Please fill in all required fields and select at least a first-choice country and topic.');
+        return;
+      }
+      document.querySelector('.submit-btn').disabled = true;
+      document.querySelector('.submit-btn').textContent = 'Submitted';
+      document.getElementById('success-msg').style.display = 'block';
+    }
+  </script>
+</body>
+</html>
