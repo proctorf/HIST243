@@ -205,7 +205,7 @@ Primary Questions - We have the following three assignments left for the semeste
 
 - Elizabeth O'Brien, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/1a8hj9a/cdi_webofscience_primary_000584784900001CitationCount" target="_blank" rel="noopener noreferrer">"The Many Meanings of *Aborto*: Pregnancy Termination and the Instability of a Medical Category Over Time</a>," *Women's History Review* 30:6 (2021): 952-70.
 
-- Lois Wessel, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_839091772" target="_blank" rel="noopener noreferrer">"Reproductive Rights in Nicarauga"</a> *Feminist Studies* 17:3 (1991): 536-549.
+- Lois Wessel, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/1a8hj9a/cdi_pubmed_primary_11656175" target="_blank" rel="noopener noreferrer">"Reproductive Rights in Nicarauga"</a> *Feminist Studies* 17:3 (1991): 536-549.
 
 - Gabriela Soto Lavega, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_925742170" target="_blank" rel="noopener noreferrer">" 'Let's Become Fewer: Soap Operas, the Pill, and Population Campains, 1976-1986,"</a> *Sexuality Research and Social Policy Journal* 4:3 (2007): 19-33
 
