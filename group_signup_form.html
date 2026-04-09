@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Group sign-up</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      background: #f5f4f0;
+      color: #1a1a18;
+      padding: 2rem 1rem;
+    }
+
+    h1 {
+      font-size: 22px;
+      font-weight: 500;
+      margin-bottom: 0.25rem;
+    }
+
+    .subtitle {
+      font-size: 14px;
+      color: #5f5e5a;
+      margin-bottom: 1.5rem;
+    }
+
+    .form-wrap {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .notice {
+      background: #e6f1fb;
+      border: 0.5px solid #85b7eb;
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-size: 13px;
+      color: #0c447c;
+      margin-bottom: 1.25rem;
+    }
+
+    .section-card {
+      background: #fff;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 12px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .section-label {
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: #888780;
+      margin-bottom: 1rem;
+    }
+
+    .field {
+      margin-bottom: 1rem;
+    }
+
+    .field:last-child {
+      margin-bottom: 0;
+    }
+
+    .field label {
+      display: block;
+      font-size: 13px;
+      font-weight: 500;
+      color: #5f5e5a;
+      margin-bottom: 6px;
+    }
+
+    .field .hint {
+      font-size: 12px;
+      color: #888780;
+      margin-top: 6px;
+    }
+
+    input[type="text"],
+    input[type="email"] {
+      width: 100%;
+      padding: 8px 12px;
+      font-size: 14px;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 8px;
+      background: #fff;
+      color: #1a1a18;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    input[type="text"]:focus,
+    input[type="email"]:focus {
+      border-color: #7f77dd;
+      box-shadow: 0 0 0 3px rgba(127, 119, 221, 0.12);
+    }
+
+    .radio-group {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-top: 4px;
+    }
+
+    .radio-option {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 14px;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 8px;
+      cursor: pointer;
+      background: #fff;
+      transition: border-color 0.15s, background 0.15s;
+    }
+
+    .radio-option:hover {
+      border-color: #b4b2a9;
+      background: #f5f4f0;
+    }
+
+    .radio-option input[type="radio"] {
+      margin-top: 2px;
+      accent-color: #534ab7;
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+    }
+
+    .radio-option input[type="radio"]:checked + .radio-text span {
+      color: #3c3489;
+      font-weight: 500;
+    }
+
+    .radio-text span {
+      display: block;
+      font-size: 14px;
+      color: #1a1a18;
+    }
+
+    .radio-text small {
+      display: block;
+      font-size: 12px;
+      color: #888780;
+      margin-top: 2px;
+    }
+
+    .optional-badge {
+      font-size: 11px;
+      font-weight: 400;
+      color: #888780;
+      background: #f1efe8;
+      border: 0.5px solid #d3d1c7;
+      border-radius: 4px;
+      padding: 1px 6px;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+
+    .submit-btn {
+      width: 100%;
+      padding: 12px;
+      font-size: 15px;
+      font-weight: 500;
+      background: #534ab7;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      margin-top: 0.5rem;
+      transition: background 0.15s;
+    }
+
+    .submit-btn:hover {
+      background: #3c3489;
+    }
+
+    .submit-btn:disabled {
+      background: #b4b2a9;
+      cursor: default;
+    }
+
+    .success {
+      display: none;
+      background: #eaf3de;
+      border: 0.5px solid #97c459;
+      border-radius: 8px;
+      padding: 14px 18px;
+      font-size: 14px;
+      color: #27500a;
+      margin-top: 1rem;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="form-wrap">
+    <h1>Group sign-up</h1>
+    <p class="subtitle">Latin America — Reproductive Rights &amp; LGBTQ+ Rights</p>
+
+    <div class="notice">Only one person per group needs to submit this form.</div>
+
+    <div class="section-card">
+      <div class="section-label">Your information</div>
+      <div class="field">
+        <label for="your-name">Your full name</label>
+        <input type="text" id="your-name" placeholder="e.g. María González" autocomplete="name">
+      </div>
+      <div class="field">
+        <label for="your-email">Your email</label>
+        <input type="email" id="your-email" placeholder="e.g. mgonzalez@university.edu" autocomplete="email">
+      </div>
+    </div>
+
+    <div class="section-card">
+      <div class="section-label">Group members</div>
+      <div class="field">
+        <label for="partner-name">Partner's full name</label>
+        <input type="text" id="partner-name" placeholder="e.g. Carlos Reyes">
+      </div>
+      <div class="field">
+        <label for="third-name">Third member's full name <span class="optional-badge">optional</span></label>
+        <input type="text" id="third-name" placeholder="Only if your group has three members">
+      </div>
+    </div>
+
+    <div class="section-card">
+      <div class="section-label">Country or region</div>
+      <div class="field">
+        <label>Select your focus</label>
+        <div class="radio-group">
+          <label class="radio-option">
+            <input type="radio" name="country" value="mexico">
+            <div class="radio-text"><span>Mexico</span></div>
+          </label>
+          <label class="radio-option">
+            <input type="radio" name="country" value="central-america">
+            <div class="radio-text">
+              <span>Central America</span>
+              <small>Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Panama</small>
+            </div>
+          </label>
+          <label class="radio-option">
+            <input type="radio" name="country" value="caribbean">
+            <div class="radio-text">
+              <span>The Caribbean</span>
+              <small>Dominican Republic, Puerto Rico, and others (excluding Cuba)</small>
+            </div>
+          </label>
+          <label class="radio-option">
+            <input type="radio" name="country" value="cuba">
+            <div class="radio-text"><span>Cuba</span></div>
+          </label>
+          <label class="radio-option">
+            <input type="radio" name="country" value="andean">
+            <div class="radio-text">
+              <span>Andean countries</span>
+              <small>Colombia, Venezuela, Ecuador, Peru, Bolivia</small>
+            </div>
+          </label>
+          <label class="radio-option">
+            <input type="radio" name="country" value="brazil">
+            <div class="radio-text"><span>Brazil</span></div>
+          </label>
+          <label class="radio-option">
+            <input type="radio" name="country" value="argentina">
+            <div class="radio-text"><span>Argentina</span></div>
+          </label>
+          <label class="radio-option">
+            <input type="radio" name="country" value="chile-uruguay">
+            <div class="radio-text">
+              <span>Chile / Uruguay</span>
+              <small>Comparative focus on the southern cone's smaller nations</small>
+            </div>
+          </label>
+        </div>
+        <p class="hint">Selections are first-come, first-served. If there's a conflict your instructor will follow up.</p>
+      </div>
+    </div>
+
+    <div class="section-card">
+      <div class="section-label">Topic</div>
+      <div class="field">
+        <div class="radio-group">
+          <label class="radio-option">
+            <input type="radio" name="topic" value="reproductive">
+            <div class="radio-text"><span>Reproductive rights</span></div>
+          </label>
+          <label class="radio-option">
+            <input type="radio" name="topic" value="lgbtq">
+            <div class="radio-text"><span>LGBTQ+ rights</span></div>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <button class="submit-btn" onclick="handleSubmit()">Submit sign-up</button>
+    <div class="success" id="success-msg">
+      Your group has been registered. Your instructor will confirm your country selection.
+    </div>
+  </div>
+
+  <script>
+    function handleSubmit() {
+      const name = document.getElementById('your-name').value.trim();
+      const email = document.getElementById('your-email').value.trim();
+      const partner = document.getElementById('partner-name').value.trim();
+      const country = document.querySelector('input[name="country"]:checked');
+      const topic = document.querySelector('input[name="topic"]:checked');
+      if (!name || !email || !partner || !country || !topic) {
+        alert('Please fill in all required fields before submitting.');
+        return;
+      }
+      document.querySelector('.submit-btn').disabled = true;
+      document.querySelector('.submit-btn').textContent = 'Submitted';
+      document.getElementById('success-msg').style.display = 'block';
+    }
+  </script>
+</body>
+</html>
