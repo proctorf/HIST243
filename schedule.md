@@ -153,51 +153,63 @@ Madame Satã (Brazil) (2002)
 **Readings:**
 - Katherine Bliss, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_818644428" target="_blank" rel="noopener noreferrer">"The Science of Redemption: Syphilis, Sexual Promiscuity, and Reformism in Revolutionary Mexico City,"</a> *HAHR* 79:1 (Feb. 1999): 1-40.
 - Robert Buffington, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_60516424" target="_blank" rel="noopener noreferrer">"La 'Dancing" Mexicana: Danzón and the Transformation of Intimacy in Post-Revolutionary Mexico City,"</a> *Journal of Latin American Cultural Studies*, 14:1 (2005); 87-108.
-- Katherine Bliss and Ann S. Blum, <a href="" target="_blank" rel="noopener noreferrer">"Dangerous Driving: Adolescence, Sex, and the Gendered Experience of Public Space in Early-Twentieth-Century Mexico City,"</a> in *Gender, Sexuality, and Power*, 163-86.
+- Katherine Bliss and Ann S. Blum, <a href="https://drive.google.com/file/d/1ItejKgsm4G97vUWiV5SndwUl2VcQC9V6/view?usp=sharing" target="_blank" rel="noopener noreferrer">"Dangerous Driving: Adolescence, Sex, and the Gendered Experience of Public Space in Early-Twentieth-Century Mexico City,"</a> in *Gender, Sexuality, and Power*, 163-86.
 
-### DUE - Project #2 - WEDNESDAY March 25 @ 11:59pm
+
 
 ### Thurs, Mar 26 - The Cuban Revolution (RXN)
 
 **Readings:**
 - Rachel Hynson, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_1758939318" target="_blank" rel="noopener noreferrer">"'Count, Capture, and Reeducate': The Campaign to Rehabilitate Cuba's Female Sex Workers, 1959-1965,"</a> *Journal of the History of Sexuality* 24:1 (2015): 125-153.
 - Lillian Guerra, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_1035976907" target="_blank" rel="noopener noreferrer">"Gender Policing, Homosexuality and the New Patriarchy of the Cuban Revolution, 1965-1970,"</a> *Social History* 35:3 (2010): 268-89.
-- Marvin Leiner, <a href="https://drive.google.com/file/d/1PM9fmJ1kfGmsNOqHxhfiQPuYUKs99nlE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"AIDS: Cuba's Efforts to Contain,"</a> in *Sexual Politics in Cuba: Machismo, Homosexuality, and AIDS* (Boulder: Westview Press, 1994): 117-58.
+
 
 ## Week 10
 
-### Tues, Mar 31 - Sex, the Cold War and Authoritarianism (RXN)
+### DUE - Project #2 - MONDAY MARCH 30 @ 11:59pm
+
+### Tues, Mar 31 - Class Discussion of Remaining Assignments 
+
+Primary Questions - We have the following three assignments left for the semester - Unit III Project, Where are we now? Presentations, and Final Research Project *OR* Community Engagement Projects (CEP).  Do we want to alter that in any way (And no, the answer cannot be zero assignments). How do we make the most of the learning opportunities that we have left together?
+
+## Communinity Engagement Project Materials
+-  <a href="https://docs.google.com/document/d/10EIHRHHcz02ksYz0_FODBpdPQbRjw3d0_MenajVnpRk/edit?usp=sharing" target="_blank">CEP Instructions</a>
+
+-  <a href="https://docs.google.com/document/d/1UC8k5Z-oeZHFGTO471wmnEjOreiW1Tg3ydC1D9Kp86g/edit?usp=sharing" target="_blank">CEP Memo Instructions</a>
+
+
+### Thurs, Apr 2 - Sex, the Cold War, and Authoritarianism (RXN)
 
 - Valerua Manzano, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_journals_222677863" target="_blank">"Sexualizing Youth: Morality Campaigns and Representations of Youth in Early 1960s Buenos Aires,"</a> *Journal of the History of Sexuality* 14:4 (2005): 433-61.
-- Benjamin Cowan, *Securing Sex: Morality and Repression in the Making of Cold War Brazil* (UNC Press, 2016): <a href="" target="_blank" rel="noopener noreferrer">CHAPTERS TBD</a><!--- https://www-jstor-org.denison.idm.oclc.org/stable/10.5149/9781469627519 cowan--->
+- Benjamin Cowan, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/1a8hj9a/cdi_proquest_journals_1030116948" target="_blank" rel="noopener noreferrer">"'WHy Hasn't This Teacher Been Shot?' Moral-Sexual Panic, the Repressive Right, and Brazil's National Security State,"</a> *Hispanic American Historical Review*, 92:3 (2012): 403-436.<!-- NOT GREAT, maybe his article on "Sex adn the Security State" would be better  https://doi.org/10.1353/sex.2007.0073-->
+- <!--Or, use Vicgorian Langland, "Birth Control Pills and Molotov Cocktails: Reading Sex and Revolution in 1968 Brazil," in *In From The COld: Latin America's New Encounter with the Cold War* https://www.jstor.org/stable/j.ctv125jfzb.13 -->
 - Joanne Hershfield, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_60240834" target="_blank" rel="noopener noreferrer">"More than Pawns: Right Wing Women in Chile"</a> *Journal of Women's History* 16:3 (2004); 138-51.
-- Ximena Bunster, <a href="" target="_blank" rel="noopener noreferrer">"Surviving Beyond Fear: Women and Torture in Latin America,"</a> in *Violence and Women*, Miranda Davis, comp. (Altantic Heights, NJ: Zed Books, 1994), 156-76.
-
-**Assignments:**
-- Decision Date: CEP or Final Research Paper
 
 
-### Thurs, Apr 2 - 20th Century Queer Identities
+## Week 11 
+
+### Tues, Apr 7 -  20th Century Queer Identities
 
 **Readings**
-TBD
+
 - Millie Thayer, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_839091772" target="_blank" rel="noopener noreferrer">"Identity, Revolution, and Democracy: Lesbian Movements in Central America,"</a> *Social Problems* 44:3 (Aug 1997): 386-407.
-
-
-## Week 11
-
-### Tues, Apr 7 - Reproductive Rights
-
-**Readings:**
-- Lois Wessel, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_839091772" target="_blank" rel="noopener noreferrer">"Reproductive Rights in Nicarauga"</a> *Feminist Studies* 17:3 (1991): 536-549.
-Readings TBD
-
-### Thurs, Apr 9 - Modern Mexican Sexualities (RXN)
-
-**Readings:**
-- Ernesto R. Acevedo-Muñoz, <a href="https://drive.google.com/file/d/1MKhLNIIc5oRAhbGILva2trEcz1k7XeSi/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"Sex, Class, and Mexico in Alfonso Cuarón's Y tu mama también,"</a> *Film and History*, 34:1 (2004), 39-48
+- James N Green, <a href="https://doi.org/10.2307/j.ctt5vkfk6.9" target="_blank" rel="noopener noreferrer">"More Love and More Desire: The Builiding of a Brazilian Movement</a>," in *The Politics of Sexuality in Latin America: A Reader on Lesbian, Gay, Bisexual, and Transgender Rights*, Javier Corrales and Mario Pecheny, eds., (Univ of Pittsburg Press, 2010): 69-85.
 - Héctor Carrillo, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_walterdegruyter_books_10_1515_9780822384540_016" target="_blank" rel="noopener noreferrer">"Neither Machos nor Maricones: Masculinity and Emerging Male Homosexual Identities in Mexico,"</a> in *Changing Men and Masculinities in Latin America*, Mathew Guttman, ed., (Durham: Duke Univ Press, 2003), 351-69.
+- Marvin Leiner, <a href="https://drive.google.com/file/d/1PM9fmJ1kfGmsNOqHxhfiQPuYUKs99nlE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"AIDS: Cuba's Efforts to Contain,"</a> in *Sexual Politics in Cuba: Machismo, Homosexuality, and AIDS* (Boulder: Westview Press, 1994): 117-58.
+
+
+### Thurs, Apr 9 - Reproductive Rights (RXN) 
+<!-- You have missed a pretty big scholarship on reproductive rights - Nora Jaffary has two books (although the first seems to cover alot of the territory inlcuded above with monstrous births and infanticide, but a new book on abortion, and a forthcoming book on colonial sexuality.  Elizabeth O'Brien work has lots of good references, Natalie Kimball has a book on Reproductive Rigths in Bolivia, but I'm not seeing articles.-->
+
+**Readings:**
+
+- Elizabeth O'Brien, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/1a8hj9a/cdi_webofscience_primary_000584784900001CitationCount" target="_blank" rel="noopener noreferrer">"The Many Meanings of *Aborto*: Pregnancy Termination and the Instability of a Medical Category Over Time</a>," *Women's History Review* 30:6 (2021): 952-70.
+
+- Lois Wessel, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/1a8hj9a/cdi_pubmed_primary_11656175" target="_blank" rel="noopener noreferrer">"Reproductive Rights in Nicarauga"</a> *Feminist Studies* 17:3 (1991): 536-549.
+
 - Gabriela Soto Lavega, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_proquest_miscellaneous_925742170" target="_blank" rel="noopener noreferrer">" 'Let's Become Fewer: Soap Operas, the Pill, and Population Campains, 1976-1986,"</a> *Sexuality Research and Social Policy Journal* 4:3 (2007): 19-33
+
+- Jennifer Nelson, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/1a8hj9a/cdi_webofscience_primary_000815255600008CitationCount" target="_blank" rel="noopener noreferrer">"Feminism, Human Rights, and Abortion Debates in Mexico</a>," *Journal of Women's History* 34:2 (2022): 119-40.
 
 ## Week 12
 
