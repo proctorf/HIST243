@@ -5,7 +5,8 @@ title: Weekly Schedule
 <nav style="background-color: #f4f4f4; padding: 10px; margin-bottom: 20px; border-bottom: 2px solid #333;">
   <a href="index.html" style="margin-right: 20px; text-decoration: none; color: #333; font-weight: bold;">Home</a>
   <a href="schedule.html" style="margin-right: 20px; text-decoration: none; color: #333; font-weight: bold;">Schedule</a>
-  <a href="unit-projects.html" style="text-decoration: none; color: #333; font-weight: bold;">Unit Projects</a>
+  <a href="unit-projects.html" style="margin-right: 20px; text-decoration: none; color: #333; font-weight: bold;">Unit Projects</a>
+  <a href="CEP_Updated.html" style="text-decoration: none; color: #333; font-weight: bold;">CEP</a>
 </nav>
 
 # Weekly Schedule (Subject to Change)
@@ -58,7 +59,7 @@ title: Weekly Schedule
 **Readings:**
 - Ruth Behar, <a href="https://drive.google.com/file/d/1mYQAggccTOGqaQnCgWA_SbBfqsadZwC2/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"Sexual Witchcraft, Colonialism, and Women's Powers: Views from the Mexican Inquisition,"</a> in *Sexuality and Marriage in Colonial Latin America*, Asunción Lavrin, ed. (U of Nebraska Press, 1989): 178-208.
 
-- Zeb Tortorici, <a href="https://www.jstor.org/stable/30114188" target="_blank" rel="noopener noreferrer">"Masturbation, Salvation, and Desire: Connecting Sexuality and Religiousity in Colonial Mexico,"</a> *Journal of the History of Sexuality* 16:3 (2007): 355-72.
+- Zeb Tortorici, <a href="https://www.jstor.org/stable/30114188" target="_blank" rel="noopener noreferrer">"Masturbation, Salvation, and Desire: Connecting Sexuality and Religiousity in Colonial Mexico,"</a> *Journal of the History of Sexuality* 16:3 (2007): 355-72.  <!-- Maybe pair with K Wallace-Donahue and A Lamar Latham, "Not just Indecent put Positively Obscene: Lascivious Pictures and the Inquisition in New Spain, 1691-1821," In CLAHR 16:3 (2007) 313-41.-->
 
 - Martha Few, <a href="https://doi.org/10.1215/00141801-2006-042" target="_blank" rel="noopener noreferrer">"'That Monster of Nature':Gender, Sexuality, and the Medicalization of a 'Hermaphrodite' in Late Colonial Guatemala,"</a> *Ethnohistory* 54:1 (2007): 159-176. 
 
