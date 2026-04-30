@@ -51,6 +51,10 @@ title: Weekly Schedule
 **Readings:**
 - Murriel Nazzari, <a href="https://drive.google.com/file/d/1NiQn0BE0Jg4o9TpwUZlivccm65D9WklY/view?usp=sharing" target="_blank" rel="noopener noreferrer">"An Urgent Need to Conceal: The System of Honor and Shame in Colonial Brazil,"</a> in *The Faces of Honor: Sex, Shame, and Violence in Colonial Latin America*, Lyman L. Johnson and Sonya Lipsett-Rivera, eds., (U of New Mexico Press, 1998): 103-26.
 
+  <!--- Victor Uribe-Uran, “Innocent Infants or Abusive Patriarchs? Spousal Homicides, the Punishment of Indians and the Law in Colonial Mexico, 1740s–1820s,” Journal of Latin American Studies 38 (2006): 793–828. -->
+
+  <!-- Nora E. Jaffary, “Reconceiving Motherhood: Infanticide and Abortion in Colonial Mexico,” Journal of Family History 37 (2012): 3–22.-->
+
 - Steven Stern, <a href="https://drive.google.com/file/d/1OyCPZo0QWNvgsRQC7oMWQWkmrhpsPORF/view?usp=drive_link" target="_blank" rel="noopener noreferrer">"An Invitation to Readers"</a> and <a href="" target="_blank" rel="noopener noreferrer">"Women, Men, and Authority: The Contested Boundaries of Gender Right and Obligation,"</a> in *The Secret History of Gender: Women, Men, & Power in Late Colonial Mexico* (U of North Carolina Press, 1995): 3-10, & 70-111.
 
 
@@ -113,7 +117,7 @@ In-Class Workday on Project 1
 **Readings:**
 - Pablo Piccato, <a href="https://doi-org.denison.idm.oclc.org/10.1215/00182168-81-3-4-623" target="_blank" rel="noopener noreferrer">"'El Chalequero' or the Mexican Jack the Ripper: The Meanings of Sexual Violence in Turn-of-the-Century Mexico City,"</a> *Hispanic American Historical Review* 81:3-4 (2001): 623-51.
 - Kristin Ruggiero, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_unpaywall_primary_10_1215_00182168_72_3_353" target="_blank" rel="noopener noreferrer">"Honor, Maternity, and the Disciplining of Women: Infanticide in Late Nineteenth-Century Buenos Aires,"</a> *The Hispanic American Historical Review*, 72:3 (1992); 353-73.
-  <!--- Nora Jaffary, "Maternity and Morality in Puebla's Nineteenth-Century Infanticide Trials," *Law and History Review* 39:2 (2021): 299-319. -->
+  <!--- Nora Jaffary, "Maternity and Morality in Puebla's Nineteenth-Century Infanticide Trials," *Law and History Review* 39:2 (2021): 299-319. Or, Laura Shelton, “Bodies of Evidence: Honor, Prueba Plena, and Emerging Medical Discourses in Northern Mexico’s Infanticide Trials in the Late Nineteenth and Early Twentieth Centuries,” *The Americas* 74 (2017): 457–80-->
 
 ## Week 7
 
