@@ -113,6 +113,7 @@ In-Class Workday on Project 1
 **Readings:**
 - Pablo Piccato, <a href="https://doi-org.denison.idm.oclc.org/10.1215/00182168-81-3-4-623" target="_blank" rel="noopener noreferrer">"'El Chalequero' or the Mexican Jack the Ripper: The Meanings of Sexual Violence in Turn-of-the-Century Mexico City,"</a> *Hispanic American Historical Review* 81:3-4 (2001): 623-51.
 - Kristin Ruggiero, <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_unpaywall_primary_10_1215_00182168_72_3_353" target="_blank" rel="noopener noreferrer">"Honor, Maternity, and the Disciplining of Women: Infanticide in Late Nineteenth-Century Buenos Aires,"</a> *The Hispanic American Historical Review*, 72:3 (1992); 353-73.
+  <!--- Nora Jaffary, "Maternity and Morality in Puebla's Nineteenth-Century Infanticide Trials," *Law and History Review* 39:2 (2021): 299-319. -->
 
 ## Week 7
 
